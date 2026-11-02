@@ -1,0 +1,1501 @@
+﻿Brand,Age,Mileage,Engine,Price (TRY),Days Listed,Sold,Fuel Type,Transmission,Damage Record,Owner Count,City,Vehicle Segment
+Hyundai,15,220000,1.2,390000,2,1,Gasoline,Manual,43100,3 or more,Bursa,B
+Ford,12,171000,1.4,390000,16,1,Diesel,Manual,0,3 or more,Istanbul,C
+Renault,7,101000,1.8,710000,90,0,Hybrid,Automatic,0,1,Izmir,C
+Honda,10,146000,1.2,570000,2,1,Diesel,Automatic,10500,1,Ankara,C
+Ford,4,59000,0.0,1050000,8,1,Electric,Automatic,0,1,Adana,C
+BMW,5,75000,1.3,1580000,1,1,Diesel,Manual,0,1,Istanbul,SUV
+Mercedes,11,162000,1.5,940000,1,1,Diesel,Automatic,66400,3 or more,Istanbul,SUV
+Hyundai,8,120000,1.5,670000,44,0,Gasoline,Automatic,44800,3 or more,Ankara,C
+Peugeot,15,217000,1.6,510000,15,1,Gasoline,Automatic,5300,3 or more,Bursa,SUV
+Fiat,7,98000,0.0,400000,74,0,Electric,Automatic,71800,3 or more,Ankara,B
+Honda,12,177000,1.5,400000,27,1,Gasoline,Manual,0,2,Ankara,C
+Volkswagen,3,39000,1.3,990000,12,1,Gasoline,Automatic,0,1,Istanbul,C
+BMW,1,13000,1.5,2170000,23,1,Gasoline,Automatic,0,1,Bursa,SUV
+Mercedes,1,11000,1.5,2410000,29,1,Diesel,Automatic,13500,1,Adana,SUV
+Fiat,10,138000,1.2,380000,25,1,Diesel,Automatic,5200,2,Istanbul,B
+Honda,7,106000,1.4,620000,39,0,Diesel,Manual,80700,1,Istanbul,C
+Renault,3,42000,2.0,1020000,50,0,Hybrid,Automatic,0,1,Izmir,C
+Peugeot,9,139000,1.3,960000,38,0,Diesel,Automatic,0,2,Adana,SUV
+Toyota,12,184000,1.5,490000,1,1,Gasoline,Automatic,19900,3 or more,Izmir,C
+Toyota,12,170000,1.5,380000,71,0,Gasoline,Manual,86200,3 or more,Kocaeli,C
+Toyota,5,74000,1.3,560000,10,1,Gasoline,Manual,0,1,Konya,B
+Honda,8,111000,1.3,700000,69,0,Gasoline,Manual,0,3 or more,Istanbul,C
+Hyundai,3,46000,1.0,830000,14,1,Gasoline,Automatic,0,1,Adana,C
+Hyundai,12,167000,1.3,540000,72,0,Diesel,Manual,68900,3 or more,Antalya,SUV
+Ford,12,178000,2.0,700000,3,1,Gasoline,Automatic,0,3 or more,Izmir,SUV
+Fiat,13,188000,1.5,340000,12,1,Diesel,Manual,0,2,Ankara,C
+Honda,1,8000,1.2,1600000,5,1,Gasoline,Automatic,0,1,Izmir,SUV
+Hyundai,12,169000,1.3,550000,35,0,Gasoline,Manual,0,1,Ankara,SUV
+Honda,5,67000,1.4,1240000,26,1,Diesel,Automatic,0,2,Konya,SUV
+Toyota,13,188000,2.0,450000,67,0,Diesel,Automatic,21500,2,Izmir,C
+Toyota,8,114000,1.6,640000,21,1,Gasoline,Manual,0,3 or more,Istanbul,C
+Mercedes,5,73000,1.5,1940000,24,1,Diesel,Automatic,0,2,Adana,D
+Volkswagen,7,105000,2.0,830000,79,0,Gasoline,Automatic,0,3 or more,Istanbul,C
+Peugeot,12,176000,1.4,720000,20,1,Diesel,Automatic,0,1,Bursa,SUV
+Fiat,7,100000,0.0,500000,59,0,Electric,Automatic,2500,3 or more,Ankara,B
+BMW,12,178000,1.6,1040000,88,0,Hybrid,Automatic,2600,1,Istanbul,SUV
+Volkswagen,3,48000,1.5,1570000,19,1,Hybrid,Automatic,49000,2,Antalya,D
+Ford,11,156000,1.3,670000,69,0,Diesel,Automatic,51000,3 or more,Bursa,SUV
+Peugeot,12,177000,2.0,610000,84,0,Gasoline,Manual,0,3 or more,Konya,SUV
+Volkswagen,3,44000,1.5,1400000,12,1,Diesel,Automatic,81000,1,Kocaeli,SUV
+Mercedes,12,173000,1.5,670000,4,1,Gasoline,Automatic,0,2,Kocaeli,C
+Ford,1,12000,1.3,1320000,25,1,Diesel,Manual,18900,1,Ankara,SUV
+Mercedes,2,23000,1.6,1530000,55,0,Gasoline,Automatic,0,3 or more,Kocaeli,C
+Toyota,1,5000,1.0,930000,5,1,Gasoline,Automatic,199300,2,Bursa,C
+Honda,3,42000,2.0,1220000,8,1,Gasoline,Automatic,33700,1,Istanbul,SUV
+Honda,6,88000,1.6,1300000,47,0,Hybrid,Automatic,0,3 or more,Istanbul,SUV
+Hyundai,5,79000,1.2,1040000,64,0,Gasoline,Manual,17400,2,Istanbul,SUV
+Ford,8,115000,1.5,480000,5,1,Diesel,Automatic,51300,3 or more,Kocaeli,B
+Volkswagen,13,190000,1.4,670000,4,1,Gasoline,Automatic,0,3 or more,Istanbul,D
+Mercedes,3,44000,0.0,2320000,48,0,Electric,Automatic,0,1,Istanbul,D
+Ford,6,87000,1.4,560000,25,1,Gasoline,Automatic,0,2,Bursa,B
+Mercedes,11,163000,1.2,640000,23,1,Diesel,Manual,0,2,Izmir,C
+BMW,10,148000,1.4,1240000,25,1,Diesel,Manual,0,2,Bursa,D
+Honda,9,123000,1.4,690000,22,1,Gasoline,Automatic,0,3 or more,Izmir,C
+Mercedes,12,172000,1.5,1040000,22,1,Gasoline,Automatic,32600,2,Istanbul,D
+Ford,4,62000,2.0,1300000,56,0,Gasoline,Automatic,44400,2,Istanbul,SUV
+Volkswagen,10,142000,1.3,740000,11,1,Diesel,Manual,0,3 or more,Konya,D
+Renault,6,83000,2.0,430000,47,0,Gasoline,Manual,0,3 or more,Istanbul,B
+Mercedes,7,101000,2.0,1070000,39,0,Hybrid,Automatic,0,3 or more,Istanbul,C
+Renault,1,17000,2.0,820000,67,0,Hybrid,Automatic,56200,2,Antalya,B
+Honda,4,62000,1.4,1120000,1,1,Diesel,Automatic,27200,3 or more,Istanbul,SUV
+Toyota,7,98000,1.4,1040000,15,1,Gasoline,Automatic,41400,1,Izmir,SUV
+Fiat,7,105000,1.2,640000,84,0,Diesel,Manual,0,2,Antalya,C
+Fiat,8,116000,1.4,540000,66,0,Diesel,Automatic,0,3 or more,Izmir,B
+Volkswagen,14,204000,1.4,620000,77,0,Gasoline,Automatic,24700,2,Bursa,SUV
+Fiat,4,63000,1.0,710000,5,1,Gasoline,Manual,84500,1,Kocaeli,C
+Fiat,7,113000,1.0,610000,20,1,Gasoline,Manual,0,3 or more,Izmir,C
+Ford,7,107000,1.3,730000,6,1,Diesel,Automatic,0,1,Istanbul,C
+Toyota,13,197000,1.5,390000,58,0,Gasoline,Manual,0,3 or more,Izmir,C
+Mercedes,7,98000,1.3,1650000,30,1,Diesel,Automatic,0,1,Antalya,D
+Renault,1,13000,1.4,1210000,29,1,Diesel,Automatic,0,1,Istanbul,C
+Renault,10,149000,1.0,390000,24,1,Gasoline,Manual,2500,3 or more,Istanbul,C
+Mercedes,9,128000,1.3,770000,34,0,Diesel,Manual,67800,2,Konya,C
+Ford,14,206000,1.2,340000,28,1,Gasoline,Manual,0,1,Bursa,B
+Toyota,5,67000,1.5,1080000,2,1,Gasoline,Manual,0,2,Adana,SUV
+Renault,10,143000,2.0,560000,18,1,Hybrid,Automatic,0,3 or more,Istanbul,C
+Peugeot,13,182000,1.4,340000,51,0,Diesel,Manual,40200,3 or more,Antalya,C
+Peugeot,2,38000,1.8,1190000,6,1,Hybrid,Automatic,0,1,Bursa,C
+BMW,9,143000,1.5,1380000,28,1,Hybrid,Automatic,0,2,Kocaeli,D
+Toyota,5,66000,1.3,1310000,2,1,Gasoline,Automatic,0,2,Ankara,SUV
+Mercedes,6,83000,1.3,1210000,2,1,Gasoline,Automatic,0,1,Izmir,C
+BMW,9,131000,1.5,1320000,60,0,Diesel,Automatic,56200,2,Istanbul,D
+Renault,12,177000,1.2,380000,46,0,Diesel,Automatic,49800,3 or more,Adana,B
+Peugeot,9,137000,1.5,580000,37,0,Gasoline,Manual,28400,3 or more,Istanbul,C
+Volkswagen,9,130000,1.6,920000,7,1,Diesel,Automatic,0,1,Istanbul,SUV
+Mercedes,12,169000,1.0,980000,46,0,Diesel,Manual,13400,3 or more,Ankara,SUV
+BMW,3,44000,0.0,2060000,59,0,Electric,Automatic,15100,2,Istanbul,SUV
+Peugeot,9,128000,1.5,930000,34,0,Diesel,Manual,0,2,Bursa,SUV
+Volkswagen,1,13000,2.0,990000,54,0,Gasoline,Automatic,141300,1,Ankara,C
+BMW,7,102000,1.4,1590000,3,1,Diesel,Manual,0,1,Antalya,D
+Volkswagen,6,85000,1.5,680000,15,1,Diesel,Manual,0,3 or more,Istanbul,C
+Fiat,5,70000,1.5,790000,25,1,Hybrid,Automatic,0,3 or more,Izmir,C
+BMW,6,91000,1.2,1340000,70,0,Diesel,Manual,0,2,Adana,SUV
+Renault,3,49000,1.3,780000,71,0,Diesel,Automatic,66500,2,Istanbul,C
+Peugeot,10,146000,1.6,400000,83,0,Gasoline,Automatic,2500,3 or more,Bursa,B
+BMW,14,199000,1.2,540000,54,0,Gasoline,Manual,0,3 or more,Antalya,C
+Ford,14,203000,2.0,590000,62,0,Hybrid,Automatic,3800,3 or more,Antalya,SUV
+Fiat,1,18000,1.0,690000,89,0,Diesel,Manual,39500,2,Istanbul,B
+Hyundai,11,157000,1.8,380000,29,1,Hybrid,Automatic,0,3 or more,Konya,B
+Renault,9,132000,1.3,340000,74,0,Diesel,Manual,11200,3 or more,Istanbul,B
+Volkswagen,5,67000,2.0,1420000,17,1,Gasoline,Automatic,0,3 or more,Izmir,SUV
+BMW,12,176000,1.6,940000,74,0,Gasoline,Automatic,50100,3 or more,Istanbul,SUV
+Honda,4,58000,1.2,1100000,52,0,Gasoline,Automatic,0,2,Izmir,C
+Volkswagen,8,117000,1.4,1070000,55,0,Gasoline,Automatic,44800,2,Adana,D
+Ford,8,120000,1.2,540000,1,1,Gasoline,Automatic,0,1,Izmir,B
+BMW,2,34000,1.6,2280000,45,0,Gasoline,Automatic,7800,1,Istanbul,D
+Hyundai,8,122000,2.0,380000,50,0,Gasoline,Manual,71700,3 or more,Istanbul,B
+Hyundai,4,68000,1.4,1170000,42,0,Diesel,Manual,0,1,Istanbul,SUV
+Peugeot,3,39000,1.5,730000,71,0,Diesel,Automatic,9100,1,Ankara,B
+Honda,3,42000,1.6,850000,67,0,Gasoline,Manual,0,3 or more,Istanbul,C
+Fiat,8,120000,1.0,710000,81,0,Diesel,Automatic,55100,3 or more,Izmir,C
+Ford,12,171000,1.5,300000,12,1,Hybrid,Automatic,83900,2,Ankara,B
+BMW,5,72000,1.6,1830000,36,0,Gasoline,Automatic,0,2,Izmir,SUV
+Peugeot,12,178000,1.6,320000,3,1,Gasoline,Manual,0,3 or more,Ankara,B
+Honda,10,141000,1.5,640000,11,1,Diesel,Automatic,0,2,Bursa,C
+Volkswagen,1,16000,1.6,1150000,5,1,Diesel,Manual,0,1,Konya,C
+Toyota,3,47000,1.4,1190000,2,1,Gasoline,Manual,117500,1,Istanbul,SUV
+Peugeot,15,218000,1.4,390000,90,0,Gasoline,Manual,0,2,Bursa,SUV
+BMW,1,11000,2.0,2410000,18,1,Gasoline,Manual,16400,1,Izmir,D
+Mercedes,8,114000,2.0,1340000,58,0,Diesel,Automatic,38500,3 or more,Istanbul,SUV
+Ford,9,129000,1.2,920000,43,0,Gasoline,Automatic,20200,3 or more,Antalya,SUV
+Renault,11,153000,1.3,320000,1,1,Diesel,Automatic,16800,3 or more,Istanbul,B
+Toyota,12,174000,1.5,720000,32,0,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Volkswagen,10,138000,1.4,600000,73,0,Diesel,Automatic,25800,3 or more,Istanbul,C
+Volkswagen,9,125000,1.4,900000,59,0,Gasoline,Manual,25900,2,Antalya,SUV
+Renault,10,152000,1.4,450000,37,0,Gasoline,Manual,7000,2,Istanbul,C
+Toyota,13,195000,1.0,350000,39,0,Diesel,Automatic,59900,3 or more,Antalya,B
+Honda,10,148000,1.5,670000,55,0,Diesel,Manual,66700,2,Istanbul,SUV
+Fiat,1,9000,1.6,1060000,3,1,Gasoline,Automatic,0,1,Izmir,C
+Honda,14,201000,1.3,430000,9,1,Gasoline,Automatic,0,3 or more,Bursa,C
+Hyundai,3,36000,1.5,1020000,33,0,Hybrid,Automatic,0,1,Ankara,C
+Toyota,6,84000,1.0,1140000,80,0,Diesel,Automatic,0,1,Bursa,SUV
+Honda,6,90000,1.4,850000,87,0,Diesel,Manual,6700,2,Istanbul,C
+Honda,14,210000,1.5,590000,8,1,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+Fiat,8,121000,1.5,540000,68,0,Diesel,Manual,0,3 or more,Istanbul,C
+Fiat,7,98000,2.0,440000,4,1,Gasoline,Automatic,0,1,Adana,B
+Ford,6,88000,1.6,1160000,13,1,Hybrid,Automatic,0,2,Ankara,SUV
+Mercedes,14,200000,1.6,520000,14,1,Gasoline,Manual,0,1,Kocaeli,C
+Honda,2,29000,1.6,1100000,21,1,Diesel,Manual,0,1,Istanbul,C
+Volkswagen,4,60000,1.3,1500000,29,1,Diesel,Automatic,0,2,Istanbul,D
+BMW,3,49000,1.3,1590000,9,1,Gasoline,Automatic,12400,2,Istanbul,SUV
+Peugeot,14,204000,1.4,390000,90,0,Gasoline,Automatic,12800,3 or more,Adana,C
+BMW,5,72000,1.4,1740000,2,1,Gasoline,Automatic,51300,3 or more,Istanbul,SUV
+Volkswagen,6,91000,1.4,1120000,48,0,Gasoline,Manual,0,1,Istanbul,D
+Fiat,3,47000,1.3,510000,3,1,Diesel,Manual,9800,1,Ankara,B
+Fiat,6,89000,1.2,530000,18,1,Gasoline,Automatic,2800,3 or more,Istanbul,B
+Mercedes,12,180000,2.0,1210000,35,0,Hybrid,Automatic,21000,2,Bursa,D
+Toyota,5,76000,1.8,1310000,14,1,Hybrid,Automatic,46800,1,Kocaeli,SUV
+Fiat,3,39000,1.2,720000,16,1,Gasoline,Automatic,0,2,Kocaeli,B
+Mercedes,9,125000,1.5,1360000,18,1,Gasoline,Automatic,0,3 or more,Istanbul,D
+Fiat,11,160000,1.5,500000,8,1,Diesel,Automatic,0,3 or more,Izmir,C
+Peugeot,8,108000,2.0,360000,86,0,Diesel,Manual,0,2,Kocaeli,B
+Honda,14,202000,1.4,580000,22,1,Diesel,Automatic,37400,3 or more,Bursa,SUV
+Peugeot,12,176000,1.8,490000,22,1,Hybrid,Automatic,0,3 or more,Izmir,C
+Toyota,15,218000,1.5,520000,1,1,Hybrid,Automatic,0,2,Bursa,SUV
+Renault,4,57000,1.8,530000,2,1,Hybrid,Automatic,59100,1,Ankara,B
+Peugeot,10,141000,0.0,650000,23,1,Electric,Automatic,0,2,Ankara,C
+Renault,10,141000,1.6,310000,21,1,Diesel,Automatic,0,2,Istanbul,B
+Fiat,9,124000,1.5,510000,23,1,Hybrid,Automatic,0,3 or more,Bursa,C
+Mercedes,8,121000,1.6,1020000,30,1,Gasoline,Automatic,0,1,Kocaeli,C
+Volkswagen,4,46000,1.3,1430000,27,1,Gasoline,Automatic,0,1,Antalya,SUV
+Peugeot,13,191000,1.2,380000,35,0,Diesel,Automatic,47100,3 or more,Istanbul,C
+Honda,3,41000,1.3,1520000,59,0,Diesel,Automatic,0,1,Ankara,SUV
+Fiat,5,67000,1.2,450000,6,1,Gasoline,Automatic,0,2,Istanbul,B
+Peugeot,4,60000,1.0,1250000,86,0,Gasoline,Manual,0,1,Kocaeli,SUV
+Ford,10,143000,1.6,790000,57,0,Gasoline,Manual,14900,3 or more,Istanbul,SUV
+BMW,4,63000,1.5,1730000,5,1,Diesel,Automatic,0,3 or more,Izmir,SUV
+Renault,9,128000,1.5,470000,73,0,Gasoline,Automatic,0,3 or more,Istanbul,B
+Ford,1,8000,1.6,850000,64,0,Hybrid,Automatic,66400,1,Adana,B
+Renault,7,98000,1.6,490000,20,1,Diesel,Automatic,7900,1,Izmir,B
+Fiat,4,51000,1.6,890000,70,0,Hybrid,Automatic,0,1,Kocaeli,C
+Honda,15,214000,1.3,390000,27,1,Gasoline,Automatic,0,3 or more,Ankara,C
+Renault,3,41000,1.4,660000,15,1,Gasoline,Automatic,0,1,Konya,B
+Mercedes,10,154000,1.5,710000,28,1,Gasoline,Automatic,0,3 or more,Istanbul,C
+Mercedes,12,172000,2.0,1200000,75,0,Diesel,Automatic,13500,2,Kocaeli,D
+Volkswagen,13,190000,1.0,710000,58,0,Gasoline,Automatic,0,2,Adana,D
+Fiat,2,30000,0.0,960000,22,1,Electric,Automatic,13200,2,Antalya,C
+Honda,5,70000,1.8,1370000,52,0,Hybrid,Automatic,36900,2,Bursa,SUV
+Renault,4,56000,1.0,460000,3,1,Gasoline,Automatic,167900,1,Bursa,B
+Peugeot,6,84000,1.4,1140000,90,0,Diesel,Automatic,0,3 or more,Izmir,SUV
+BMW,1,13000,1.3,1980000,27,1,Gasoline,Automatic,0,1,Ankara,SUV
+Peugeot,10,147000,1.5,640000,90,0,Hybrid,Automatic,12700,3 or more,Izmir,C
+Fiat,8,118000,1.3,620000,65,0,Gasoline,Manual,0,3 or more,Istanbul,C
+Peugeot,4,53000,0.0,1200000,16,1,Electric,Automatic,0,2,Istanbul,SUV
+Renault,14,203000,1.6,380000,34,0,Gasoline,Automatic,0,2,Adana,B
+BMW,8,104000,1.4,1590000,81,0,Gasoline,Automatic,20500,3 or more,Ankara,D
+Peugeot,3,44000,1.4,640000,1,1,Gasoline,Automatic,32100,1,Istanbul,B
+Ford,6,84000,1.0,660000,8,1,Diesel,Manual,14100,1,Ankara,C
+Fiat,1,14000,1.3,980000,79,0,Gasoline,Manual,0,1,Istanbul,C
+Honda,6,86000,1.5,790000,43,0,Gasoline,Manual,0,1,Bursa,C
+Renault,13,195000,1.5,330000,69,0,Hybrid,Automatic,13000,3 or more,Kocaeli,B
+Volkswagen,11,158000,1.6,560000,42,0,Diesel,Automatic,27900,1,Istanbul,C
+Peugeot,2,35000,1.5,1520000,50,0,Gasoline,Manual,33200,1,Izmir,SUV
+Volkswagen,13,189000,1.0,710000,26,1,Gasoline,Automatic,0,2,Konya,D
+Toyota,15,224000,1.4,540000,6,1,Gasoline,Automatic,0,2,Antalya,SUV
+BMW,3,35000,1.4,1800000,5,1,Diesel,Automatic,16400,1,Izmir,SUV
+Volkswagen,1,14000,1.4,1120000,5,1,Diesel,Manual,31700,1,Izmir,C
+Fiat,12,170000,2.0,350000,26,1,Gasoline,Manual,0,3 or more,Istanbul,C
+Ford,11,158000,2.0,780000,34,0,Gasoline,Manual,0,3 or more,Kocaeli,SUV
+Peugeot,13,182000,1.4,310000,27,1,Gasoline,Manual,0,3 or more,Antalya,B
+Renault,2,25000,1.3,850000,54,0,Gasoline,Manual,14900,3 or more,Kocaeli,C
+BMW,4,59000,1.5,1810000,66,0,Diesel,Manual,0,2,Konya,SUV
+Volkswagen,11,157000,1.5,720000,6,1,Gasoline,Automatic,22000,1,Istanbul,D
+Renault,12,179000,1.4,350000,87,0,Diesel,Manual,17100,2,Ankara,C
+Toyota,5,72000,1.8,1250000,38,0,Hybrid,Automatic,22700,2,Adana,SUV
+Toyota,1,10000,1.3,1050000,80,0,Gasoline,Manual,0,3 or more,Ankara,C
+Ford,3,40000,1.4,1480000,77,0,Gasoline,Automatic,0,1,Kocaeli,SUV
+BMW,1,14000,1.0,1410000,65,0,Diesel,Manual,58000,2,Izmir,C
+Mercedes,9,126000,1.0,1220000,75,0,Diesel,Manual,30100,3 or more,Kocaeli,SUV
+Ford,8,115000,1.5,620000,24,1,Gasoline,Automatic,18000,2,Ankara,C
+Ford,7,95000,2.0,550000,53,0,Diesel,Automatic,4600,2,Adana,B
+Honda,4,55000,1.3,1330000,43,0,Diesel,Automatic,28100,3 or more,Konya,SUV
+Mercedes,12,166000,1.5,620000,26,1,Gasoline,Manual,0,3 or more,Antalya,C
+BMW,6,88000,1.3,1150000,9,1,Diesel,Automatic,61300,1,Adana,C
+Fiat,2,28000,2.0,1080000,29,1,Hybrid,Automatic,4300,2,Ankara,C
+Peugeot,10,143000,1.5,710000,60,0,Hybrid,Automatic,105400,3 or more,Istanbul,SUV
+Fiat,3,42000,2.0,690000,14,1,Gasoline,Automatic,0,1,Antalya,B
+Peugeot,9,131000,1.5,790000,53,0,Gasoline,Automatic,36500,3 or more,Izmir,SUV
+BMW,8,117000,1.5,1310000,83,0,Diesel,Manual,60700,1,Istanbul,D
+Volkswagen,14,204000,1.5,680000,15,1,Hybrid,Automatic,0,2,Istanbul,D
+Ford,11,166000,1.3,330000,15,1,Diesel,Manual,30000,2,Antalya,B
+BMW,6,79000,1.5,1530000,43,0,Gasoline,Manual,29400,2,Kocaeli,D
+Renault,11,161000,1.3,380000,43,0,Gasoline,Manual,97000,3 or more,Bursa,B
+Hyundai,4,60000,1.4,770000,10,1,Gasoline,Manual,0,1,Istanbul,C
+Renault,13,191000,1.5,380000,77,0,Gasoline,Manual,12000,2,Istanbul,B
+BMW,1,14000,1.0,1690000,76,0,Gasoline,Automatic,15300,1,Istanbul,C
+Ford,6,88000,1.4,960000,74,0,Gasoline,Automatic,0,3 or more,Adana,C
+BMW,15,218000,1.4,650000,19,1,Gasoline,Automatic,139000,1,Bursa,SUV
+BMW,11,162000,0.0,1150000,30,1,Electric,Automatic,51900,2,Izmir,D
+Hyundai,11,161000,2.0,380000,54,0,Hybrid,Automatic,9100,2,Antalya,B
+Mercedes,7,99000,1.0,1080000,24,1,Diesel,Automatic,0,2,Kocaeli,C
+BMW,1,8000,2.0,1910000,20,1,Diesel,Automatic,0,1,Ankara,SUV
+Volkswagen,2,24000,2.0,1520000,26,1,Gasoline,Manual,0,1,Kocaeli,SUV
+Ford,8,109000,1.4,850000,37,0,Diesel,Automatic,0,2,Adana,C
+Volkswagen,14,202000,1.3,470000,58,0,Diesel,Automatic,0,2,Izmir,C
+Fiat,15,217000,1.6,380000,64,0,Gasoline,Manual,15200,3 or more,Adana,C
+Hyundai,8,118000,1.4,440000,25,1,Gasoline,Automatic,0,3 or more,Kocaeli,B
+Hyundai,6,87000,1.6,1000000,77,0,Hybrid,Automatic,8900,2,Ankara,SUV
+Hyundai,2,25000,1.3,940000,22,1,Gasoline,Automatic,0,1,Izmir,C
+Toyota,7,110000,1.6,1100000,4,1,Gasoline,Automatic,0,3 or more,Konya,SUV
+Peugeot,5,79000,1.2,1270000,7,1,Diesel,Automatic,0,2,Ankara,SUV
+Toyota,7,101000,1.2,970000,17,1,Gasoline,Manual,0,2,Bursa,SUV
+Hyundai,1,10000,1.5,770000,44,0,Diesel,Automatic,2500,1,Adana,B
+Hyundai,13,189000,0.0,640000,36,0,Electric,Automatic,0,1,Istanbul,SUV
+Renault,12,176000,1.8,340000,81,0,Hybrid,Automatic,0,2,Ankara,B
+Mercedes,14,208000,1.8,980000,1,1,Hybrid,Automatic,0,3 or more,Izmir,SUV
+Volkswagen,5,78000,1.5,1080000,19,1,Gasoline,Automatic,11800,1,Bursa,SUV
+BMW,15,218000,1.5,410000,54,0,Diesel,Manual,32200,3 or more,Istanbul,C
+Honda,9,130000,0.0,660000,71,0,Electric,Automatic,0,2,Bursa,C
+Honda,9,131000,1.5,790000,26,1,Gasoline,Automatic,27900,3 or more,Izmir,SUV
+Hyundai,13,196000,1.2,530000,9,1,Diesel,Automatic,16400,3 or more,Bursa,SUV
+Ford,11,162000,1.5,340000,27,1,Hybrid,Automatic,0,2,Bursa,B
+Volkswagen,8,123000,1.4,950000,31,0,Diesel,Manual,0,3 or more,Istanbul,SUV
+Peugeot,14,206000,0.0,320000,3,1,Electric,Automatic,0,2,Adana,B
+Volkswagen,9,123000,1.5,770000,20,1,Diesel,Manual,35500,3 or more,Istanbul,SUV
+Hyundai,5,74000,1.3,500000,29,1,Gasoline,Manual,0,1,Ankara,B
+Honda,11,152000,1.6,630000,33,0,Gasoline,Automatic,0,3 or more,Izmir,C
+Toyota,8,114000,1.6,920000,27,1,Gasoline,Manual,68800,3 or more,Ankara,SUV
+Honda,11,157000,1.5,630000,87,0,Diesel,Automatic,12100,1,Istanbul,C
+Ford,13,186000,1.3,670000,51,0,Gasoline,Automatic,0,1,Istanbul,SUV
+Volkswagen,10,149000,1.6,530000,55,0,Diesel,Manual,0,3 or more,Ankara,C
+Honda,8,113000,2.0,1070000,16,1,Hybrid,Automatic,16400,3 or more,Adana,SUV
+Volkswagen,9,132000,1.6,470000,9,1,Diesel,Manual,0,3 or more,Istanbul,C
+Volkswagen,13,185000,1.4,750000,60,0,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Toyota,1,22000,1.6,840000,9,1,Hybrid,Automatic,0,1,Istanbul,B
+Hyundai,15,211000,2.0,460000,19,1,Gasoline,Automatic,0,3 or more,Bursa,SUV
+Mercedes,10,145000,1.6,1050000,29,1,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+Mercedes,1,12000,1.8,1390000,11,1,Hybrid,Automatic,52400,2,Istanbul,C
+Renault,13,195000,1.0,380000,81,0,Gasoline,Automatic,60300,3 or more,Istanbul,B
+Ford,7,96000,1.5,560000,25,1,Hybrid,Automatic,0,2,Antalya,B
+Renault,2,33000,0.0,820000,13,1,Electric,Automatic,2700,1,Kocaeli,C
+Fiat,13,180000,1.4,430000,20,1,Gasoline,Automatic,0,1,Istanbul,C
+BMW,1,21000,1.2,1340000,16,1,Gasoline,Manual,0,1,Bursa,C
+Hyundai,4,60000,1.5,670000,53,0,Diesel,Manual,48500,1,Izmir,C
+Volkswagen,4,59000,1.3,1630000,87,0,Diesel,Automatic,0,2,Istanbul,D
+BMW,14,203000,1.0,600000,68,0,Gasoline,Automatic,37700,2,Izmir,C
+Renault,3,37000,1.2,1010000,45,0,Gasoline,Automatic,10800,1,Antalya,C
+Hyundai,6,90000,1.2,970000,62,0,Diesel,Manual,0,2,Istanbul,SUV
+Volkswagen,2,27000,1.4,1900000,63,0,Gasoline,Automatic,3500,1,Izmir,D
+Ford,4,61000,1.4,1440000,41,0,Gasoline,Automatic,0,1,Ankara,SUV
+Renault,11,155000,1.4,430000,49,0,Gasoline,Manual,0,3 or more,Izmir,C
+Renault,2,25000,1.5,830000,89,0,Gasoline,Automatic,0,2,Ankara,B
+Volkswagen,4,57000,0.0,1550000,84,0,Electric,Automatic,62600,2,Ankara,D
+Hyundai,5,70000,2.0,950000,70,0,Diesel,Manual,58200,2,Bursa,SUV
+Ford,15,220000,1.5,350000,20,1,Gasoline,Manual,0,2,Kocaeli,C
+Renault,8,121000,1.0,600000,26,1,Diesel,Automatic,42400,1,Istanbul,C
+Fiat,7,103000,1.6,720000,65,0,Gasoline,Automatic,11800,1,Istanbul,C
+Volkswagen,1,16000,1.6,1730000,79,0,Diesel,Manual,0,1,Izmir,D
+Honda,13,188000,1.3,530000,20,1,Gasoline,Manual,0,3 or more,Ankara,SUV
+Fiat,5,65000,1.3,470000,17,1,Diesel,Manual,0,1,Ankara,B
+Fiat,10,143000,1.6,360000,28,1,Gasoline,Manual,0,1,Izmir,B
+Volkswagen,10,140000,1.3,970000,25,1,Diesel,Automatic,0,1,Bursa,D
+Volkswagen,9,128000,2.0,950000,13,1,Diesel,Automatic,0,2,Kocaeli,D
+Peugeot,11,148000,1.5,670000,46,0,Diesel,Automatic,0,3 or more,Istanbul,C
+Fiat,9,135000,1.5,370000,22,1,Hybrid,Automatic,30300,2,Istanbul,B
+Hyundai,13,184000,1.2,360000,52,0,Diesel,Manual,0,2,Izmir,B
+Ford,8,122000,2.0,920000,20,1,Gasoline,Automatic,29800,2,Bursa,SUV
+Peugeot,14,214000,1.6,710000,47,0,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Toyota,15,215000,2.0,320000,5,1,Gasoline,Automatic,53900,3 or more,Ankara,C
+Peugeot,7,89000,2.0,540000,21,1,Diesel,Automatic,6600,2,Istanbul,B
+Toyota,4,56000,1.2,1440000,74,0,Diesel,Automatic,92300,1,Istanbul,SUV
+BMW,15,224000,2.0,870000,8,1,Hybrid,Automatic,0,2,Istanbul,D
+Renault,7,103000,1.5,470000,5,1,Gasoline,Automatic,0,3 or more,Bursa,B
+Renault,8,113000,1.0,670000,49,0,Gasoline,Automatic,10800,3 or more,Istanbul,C
+BMW,7,102000,2.0,1120000,90,0,Gasoline,Manual,27400,2,Kocaeli,C
+Honda,3,42000,1.6,1240000,16,1,Hybrid,Automatic,95900,1,Ankara,SUV
+Ford,9,134000,1.3,850000,22,1,Gasoline,Automatic,0,3 or more,Izmir,SUV
+Honda,8,120000,1.6,990000,74,0,Hybrid,Automatic,21700,3 or more,Ankara,SUV
+BMW,15,223000,1.3,540000,50,0,Gasoline,Manual,98600,2,Antalya,SUV
+Ford,14,198000,2.0,350000,36,0,Diesel,Manual,30700,3 or more,Konya,B
+Hyundai,2,38000,1.5,1370000,88,0,Gasoline,Automatic,0,1,Izmir,SUV
+Hyundai,8,117000,1.6,350000,7,1,Gasoline,Automatic,69700,3 or more,Istanbul,B
+Mercedes,13,186000,1.0,820000,25,1,Diesel,Automatic,0,2,Bursa,SUV
+Hyundai,8,116000,1.5,650000,46,0,Gasoline,Automatic,0,3 or more,Ankara,C
+Toyota,6,80000,1.6,660000,29,1,Hybrid,Automatic,0,1,Ankara,C
+Toyota,5,70000,1.5,1270000,18,1,Diesel,Automatic,0,1,Kocaeli,SUV
+Toyota,14,201000,1.4,400000,3,1,Gasoline,Automatic,36600,1,Ankara,C
+Mercedes,13,182000,1.4,990000,4,1,Gasoline,Automatic,2500,3 or more,Izmir,D
+Fiat,10,138000,1.5,360000,72,0,Diesel,Automatic,95300,2,Istanbul,B
+Renault,10,144000,1.4,530000,76,0,Diesel,Automatic,2500,3 or more,Istanbul,C
+Hyundai,10,145000,1.3,590000,11,1,Diesel,Automatic,0,2,Bursa,C
+Fiat,4,55000,2.0,580000,41,0,Hybrid,Automatic,17900,3 or more,Ankara,B
+Honda,9,138000,1.2,710000,23,1,Diesel,Automatic,8800,2,Ankara,C
+BMW,8,123000,1.5,1450000,55,0,Hybrid,Automatic,0,3 or more,Izmir,D
+Fiat,2,29000,1.6,1000000,2,1,Hybrid,Automatic,0,3 or more,Konya,C
+Honda,6,85000,1.6,1020000,10,1,Gasoline,Automatic,13200,3 or more,Izmir,SUV
+Fiat,6,79000,1.3,560000,12,1,Diesel,Automatic,0,2,Ankara,B
+Toyota,13,183000,1.2,520000,14,1,Gasoline,Manual,11900,1,Bursa,SUV
+Fiat,13,180000,1.4,330000,20,1,Gasoline,Manual,50000,3 or more,Bursa,C
+Fiat,6,87000,1.6,740000,59,0,Hybrid,Automatic,7500,2,Istanbul,C
+Fiat,15,213000,1.3,330000,20,1,Gasoline,Automatic,60900,3 or more,Izmir,C
+Volkswagen,10,145000,1.2,810000,61,0,Diesel,Manual,24800,2,Ankara,D
+BMW,4,68000,1.4,1640000,11,1,Diesel,Automatic,0,1,Izmir,SUV
+Fiat,10,137000,1.4,350000,34,0,Diesel,Manual,54900,3 or more,Istanbul,B
+Honda,8,119000,1.5,710000,18,1,Gasoline,Automatic,8400,2,Istanbul,C
+Peugeot,10,138000,1.0,680000,81,0,Gasoline,Automatic,23100,3 or more,Izmir,C
+Mercedes,11,165000,1.6,800000,14,1,Gasoline,Automatic,0,2,Istanbul,C
+BMW,2,28000,1.5,1400000,63,0,Gasoline,Manual,80700,1,Antalya,C
+Fiat,6,83000,1.5,700000,14,1,Diesel,Automatic,13700,1,Istanbul,C
+Toyota,6,88000,1.4,890000,3,1,Gasoline,Automatic,0,2,Ankara,C
+Renault,6,88000,1.8,780000,23,1,Hybrid,Automatic,17200,2,Ankara,C
+Hyundai,7,101000,1.6,960000,17,1,Diesel,Automatic,13900,2,Ankara,SUV
+Fiat,8,112000,1.2,570000,84,0,Diesel,Automatic,49000,3 or more,Kocaeli,C
+Peugeot,12,183000,1.8,440000,23,1,Hybrid,Automatic,25900,2,Izmir,C
+Peugeot,7,101000,1.0,1010000,6,1,Gasoline,Manual,0,3 or more,Istanbul,SUV
+Ford,10,140000,1.8,440000,26,1,Hybrid,Automatic,0,3 or more,Antalya,B
+Renault,5,68000,1.4,650000,53,0,Diesel,Automatic,0,2,Antalya,B
+BMW,15,222000,1.0,650000,14,1,Diesel,Manual,0,1,Ankara,SUV
+Mercedes,3,40000,1.4,2520000,10,1,Gasoline,Automatic,0,1,Ankara,D
+Hyundai,2,21000,1.4,590000,1,1,Gasoline,Manual,0,1,Istanbul,B
+BMW,13,180000,1.6,1100000,28,1,Hybrid,Automatic,31400,3 or more,Istanbul,D
+Renault,11,168000,2.0,310000,12,1,Gasoline,Automatic,2900,3 or more,Konya,B
+Fiat,10,146000,1.6,530000,5,1,Gasoline,Automatic,2500,2,Ankara,C
+Volkswagen,9,133000,1.6,1020000,69,0,Gasoline,Manual,15200,2,Ankara,D
+Ford,3,43000,2.0,940000,4,1,Diesel,Automatic,0,1,Ankara,C
+Mercedes,2,31000,1.5,1640000,58,0,Diesel,Automatic,0,3 or more,Istanbul,C
+Toyota,10,151000,1.3,640000,19,1,Diesel,Automatic,0,1,Bursa,C
+Renault,12,175000,1.4,360000,13,1,Diesel,Automatic,0,2,Izmir,C
+Renault,9,133000,1.2,490000,31,0,Gasoline,Manual,0,2,Istanbul,C
+Mercedes,9,133000,1.2,1390000,73,0,Diesel,Manual,2500,3 or more,Izmir,D
+BMW,12,179000,1.5,940000,36,0,Gasoline,Automatic,2500,1,Bursa,SUV
+Hyundai,13,187000,1.6,400000,77,0,Gasoline,Automatic,0,3 or more,Ankara,C
+Peugeot,11,157000,2.0,800000,86,0,Diesel,Automatic,47100,3 or more,Antalya,SUV
+BMW,12,182000,1.8,860000,65,0,Hybrid,Automatic,0,1,Istanbul,SUV
+Renault,6,89000,0.0,580000,12,1,Electric,Automatic,17600,1,Bursa,C
+Ford,10,142000,1.4,360000,25,1,Diesel,Automatic,30000,2,Istanbul,B
+BMW,15,217000,1.5,620000,78,0,Diesel,Manual,55700,3 or more,Istanbul,SUV
+Toyota,4,56000,1.4,1080000,6,1,Diesel,Manual,0,1,Istanbul,SUV
+BMW,7,98000,1.5,1470000,25,1,Gasoline,Automatic,0,1,Istanbul,SUV
+BMW,2,34000,1.3,2260000,8,1,Diesel,Manual,0,1,Istanbul,D
+BMW,13,196000,1.6,1010000,54,0,Gasoline,Manual,43900,3 or more,Ankara,D
+Peugeot,15,222000,1.3,400000,45,0,Gasoline,Manual,43000,2,Izmir,SUV
+BMW,13,187000,1.3,930000,72,0,Diesel,Manual,0,2,Adana,D
+Mercedes,12,177000,1.4,1050000,29,1,Gasoline,Automatic,57000,3 or more,Istanbul,D
+Renault,7,101000,1.0,390000,85,0,Gasoline,Manual,0,3 or more,Ankara,B
+Honda,2,26000,1.4,890000,45,0,Diesel,Manual,58500,1,Bursa,C
+Hyundai,7,103000,1.0,880000,18,1,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Fiat,10,149000,1.6,370000,53,0,Hybrid,Automatic,0,3 or more,Adana,B
+Peugeot,1,9000,1.3,1630000,16,1,Gasoline,Manual,0,1,Istanbul,SUV
+Mercedes,14,207000,1.5,760000,27,1,Hybrid,Automatic,39600,3 or more,Izmir,SUV
+Mercedes,11,162000,1.4,1170000,78,0,Diesel,Automatic,0,2,Antalya,SUV
+Fiat,14,200000,2.0,300000,22,1,Diesel,Manual,0,2,Adana,B
+Ford,15,216000,1.5,550000,82,0,Diesel,Automatic,30600,2,Izmir,SUV
+Toyota,14,204000,1.2,300000,14,1,Gasoline,Automatic,0,1,Kocaeli,B
+Ford,1,19000,1.4,1120000,73,0,Diesel,Automatic,67200,2,Ankara,C
+Honda,2,30000,1.3,1180000,5,1,Diesel,Automatic,0,1,Istanbul,C
+Volkswagen,9,131000,1.3,890000,63,0,Diesel,Automatic,73100,3 or more,Bursa,D
+Fiat,13,183000,1.5,310000,10,1,Diesel,Manual,9300,1,Istanbul,C
+Toyota,8,113000,1.5,790000,88,0,Diesel,Automatic,2500,3 or more,Istanbul,C
+Hyundai,10,137000,1.6,570000,9,1,Diesel,Automatic,0,3 or more,Istanbul,C
+Honda,8,114000,1.6,780000,37,0,Hybrid,Automatic,5200,3 or more,Istanbul,C
+Peugeot,12,166000,2.0,640000,60,0,Hybrid,Automatic,27000,3 or more,Istanbul,SUV
+Hyundai,1,20000,2.0,970000,3,1,Hybrid,Automatic,4600,1,Antalya,C
+Toyota,13,196000,1.4,450000,73,0,Gasoline,Automatic,0,2,Istanbul,C
+Hyundai,12,174000,1.5,760000,19,1,Hybrid,Automatic,0,2,Bursa,SUV
+BMW,1,21000,1.5,2330000,13,1,Diesel,Manual,0,1,Istanbul,D
+Hyundai,13,187000,1.4,400000,85,0,Gasoline,Automatic,4000,2,Ankara,C
+Honda,15,224000,1.4,390000,44,0,Diesel,Automatic,90200,3 or more,Bursa,C
+Ford,10,146000,1.6,780000,77,0,Hybrid,Automatic,0,2,Istanbul,SUV
+Mercedes,15,221000,1.4,960000,25,1,Gasoline,Automatic,0,2,Bursa,D
+Ford,10,143000,1.3,850000,17,1,Diesel,Automatic,0,1,Istanbul,SUV
+Peugeot,9,134000,1.2,630000,29,1,Gasoline,Automatic,9600,3 or more,Izmir,C
+Toyota,10,140000,1.3,310000,15,1,Diesel,Automatic,74500,3 or more,Ankara,B
+Volkswagen,3,43000,1.3,1330000,49,0,Diesel,Automatic,0,2,Izmir,SUV
+Toyota,8,112000,1.8,590000,4,1,Hybrid,Automatic,32200,3 or more,Antalya,C
+Ford,1,14000,1.4,1150000,73,0,Diesel,Automatic,7200,1,Istanbul,C
+Hyundai,10,145000,1.4,350000,63,0,Gasoline,Automatic,12500,3 or more,Bursa,B
+Mercedes,2,30000,1.0,1640000,78,0,Diesel,Manual,0,1,Izmir,C
+Fiat,11,159000,1.6,490000,66,0,Diesel,Automatic,25400,2,Istanbul,C
+Fiat,6,80000,1.6,500000,89,0,Diesel,Manual,0,3 or more,Bursa,B
+Renault,5,74000,1.2,810000,38,0,Diesel,Manual,0,1,Konya,C
+Renault,14,207000,1.2,320000,19,1,Gasoline,Automatic,0,3 or more,Ankara,B
+Hyundai,13,193000,1.6,380000,38,0,Hybrid,Automatic,50300,3 or more,Istanbul,C
+Peugeot,12,188000,1.4,560000,12,1,Gasoline,Manual,0,3 or more,Ankara,SUV
+Ford,5,71000,1.6,870000,52,0,Gasoline,Automatic,63400,1,Istanbul,C
+Hyundai,10,146000,1.3,520000,7,1,Gasoline,Automatic,0,2,Ankara,C
+BMW,4,56000,1.4,2100000,20,1,Gasoline,Automatic,4400,1,Ankara,D
+Hyundai,15,217000,1.6,330000,19,1,Hybrid,Automatic,0,2,Izmir,B
+Ford,14,208000,1.5,310000,66,0,Hybrid,Automatic,118600,1,Ankara,C
+Mercedes,4,60000,1.3,2030000,25,1,Gasoline,Manual,0,1,Ankara,D
+Peugeot,10,138000,1.6,440000,28,1,Gasoline,Automatic,0,3 or more,Izmir,B
+Volkswagen,12,175000,0.0,790000,28,1,Electric,Automatic,0,3 or more,Antalya,D
+Volkswagen,5,75000,1.3,830000,15,1,Gasoline,Automatic,18000,2,Istanbul,C
+Volkswagen,1,17000,0.0,1680000,17,1,Electric,Automatic,0,3 or more,Kocaeli,D
+Mercedes,7,101000,0.0,1660000,26,1,Electric,Automatic,13400,3 or more,Antalya,D
+Toyota,12,182000,1.2,460000,26,1,Diesel,Automatic,0,2,Ankara,C
+Honda,4,52000,2.0,1400000,29,1,Diesel,Automatic,0,1,Ankara,SUV
+Renault,12,173000,1.3,380000,25,1,Gasoline,Automatic,47300,3 or more,Istanbul,C
+Peugeot,4,53000,1.3,990000,26,1,Gasoline,Automatic,0,1,Istanbul,C
+Mercedes,14,211000,1.5,910000,85,0,Gasoline,Automatic,0,3 or more,Antalya,SUV
+Mercedes,11,164000,1.5,1080000,12,1,Diesel,Automatic,0,3 or more,Ankara,SUV
+Renault,1,11000,1.4,1050000,28,1,Diesel,Automatic,28600,1,Istanbul,C
+Volkswagen,1,20000,1.2,1500000,12,1,Gasoline,Manual,22300,1,Istanbul,SUV
+BMW,5,72000,1.0,1200000,21,1,Gasoline,Automatic,0,1,Istanbul,C
+Toyota,14,203000,1.4,470000,63,0,Diesel,Manual,0,3 or more,Izmir,SUV
+Toyota,12,178000,1.6,340000,82,0,Hybrid,Automatic,2500,3 or more,Ankara,B
+Ford,12,173000,2.0,300000,8,1,Gasoline,Automatic,60100,3 or more,Istanbul,B
+Ford,7,101000,1.4,460000,86,0,Diesel,Manual,34300,1,Istanbul,B
+Honda,11,158000,1.4,780000,47,0,Gasoline,Automatic,11900,3 or more,Adana,SUV
+Mercedes,4,69000,1.4,1950000,24,1,Gasoline,Automatic,33100,2,Antalya,D
+Hyundai,1,11000,1.4,670000,1,1,Diesel,Automatic,0,1,Istanbul,B
+Toyota,15,216000,1.4,340000,48,0,Gasoline,Automatic,37200,1,Adana,B
+Ford,14,198000,1.3,690000,48,0,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+Fiat,4,61000,1.2,520000,15,1,Gasoline,Manual,0,1,Ankara,B
+Toyota,9,131000,1.4,1050000,19,1,Diesel,Automatic,0,3 or more,Izmir,SUV
+Hyundai,7,101000,0.0,930000,6,1,Electric,Automatic,0,1,Adana,SUV
+BMW,3,49000,1.2,1590000,10,1,Diesel,Manual,0,1,Istanbul,SUV
+Renault,8,110000,1.5,380000,14,1,Gasoline,Automatic,0,2,Adana,B
+Ford,4,56000,1.0,650000,23,1,Diesel,Automatic,50900,1,Adana,B
+Honda,8,121000,1.4,1200000,56,0,Diesel,Automatic,0,3 or more,Izmir,SUV
+Hyundai,8,124000,1.0,450000,64,0,Diesel,Automatic,4700,2,Istanbul,B
+Peugeot,7,99000,1.6,1040000,82,0,Diesel,Automatic,62900,1,Istanbul,SUV
+BMW,5,73000,1.4,1530000,48,0,Gasoline,Manual,0,2,Istanbul,SUV
+Ford,3,57000,1.3,920000,29,1,Diesel,Automatic,0,1,Istanbul,C
+Honda,11,158000,1.8,470000,56,0,Hybrid,Automatic,33000,2,Ankara,C
+Renault,13,187000,1.4,360000,1,1,Diesel,Automatic,221200,3 or more,Antalya,B
+Ford,2,35000,1.5,1250000,19,1,Gasoline,Automatic,0,2,Istanbul,C
+Honda,9,126000,0.0,540000,17,1,Electric,Automatic,0,3 or more,Istanbul,C
+Toyota,10,150000,1.5,790000,46,0,Diesel,Manual,0,1,Istanbul,SUV
+Volkswagen,4,58000,1.8,1380000,14,1,Hybrid,Automatic,0,3 or more,Konya,SUV
+Mercedes,5,67000,1.5,1950000,80,0,Gasoline,Manual,0,2,Istanbul,D
+Peugeot,14,205000,1.2,490000,28,1,Gasoline,Manual,64200,1,Istanbul,SUV
+Volkswagen,9,135000,1.0,530000,7,1,Gasoline,Automatic,47400,3 or more,Bursa,C
+Peugeot,10,147000,1.5,800000,29,1,Hybrid,Automatic,0,1,Antalya,SUV
+Honda,5,76000,2.0,1340000,50,0,Hybrid,Automatic,0,2,Izmir,SUV
+Toyota,1,17000,1.3,1550000,10,1,Diesel,Automatic,0,1,Bursa,SUV
+Fiat,8,118000,1.2,580000,3,1,Gasoline,Automatic,13000,3 or more,Istanbul,C
+BMW,7,101000,1.6,1060000,62,0,Gasoline,Manual,0,3 or more,Kocaeli,C
+BMW,4,58000,1.0,1750000,5,1,Diesel,Automatic,25300,1,Istanbul,D
+Ford,13,186000,1.4,720000,21,1,Diesel,Automatic,10800,3 or more,Ankara,SUV
+Renault,15,222000,0.0,380000,81,0,Electric,Automatic,9800,3 or more,Istanbul,B
+Volkswagen,4,53000,1.3,1720000,39,0,Diesel,Automatic,6700,3 or more,Izmir,D
+Fiat,2,31000,1.5,890000,18,1,Diesel,Manual,0,1,Ankara,C
+Toyota,11,155000,1.2,790000,55,0,Diesel,Manual,0,3 or more,Antalya,SUV
+Fiat,14,198000,1.6,370000,1,1,Gasoline,Automatic,0,3 or more,Istanbul,B
+BMW,3,41000,1.4,1910000,23,1,Gasoline,Automatic,82800,1,Istanbul,D
+Ford,12,175000,0.0,320000,86,0,Electric,Automatic,20700,3 or more,Istanbul,B
+Peugeot,5,68000,1.3,800000,79,0,Diesel,Manual,14800,2,Adana,C
+Toyota,11,154000,1.2,400000,29,1,Gasoline,Manual,0,3 or more,Istanbul,B
+Mercedes,9,135000,1.0,970000,80,0,Gasoline,Automatic,20000,3 or more,Istanbul,C
+Hyundai,1,22000,1.6,760000,5,1,Gasoline,Automatic,0,1,Izmir,B
+Volkswagen,15,219000,1.4,570000,56,0,Diesel,Manual,0,3 or more,Ankara,D
+Toyota,2,37000,1.4,700000,52,0,Diesel,Manual,0,1,Ankara,B
+Honda,12,177000,1.4,480000,89,0,Gasoline,Manual,0,3 or more,Istanbul,C
+Fiat,9,131000,1.4,490000,33,0,Gasoline,Manual,11800,3 or more,Ankara,C
+Peugeot,3,47000,1.5,700000,13,1,Diesel,Automatic,0,2,Ankara,B
+Mercedes,6,91000,1.3,1590000,10,1,Gasoline,Manual,0,2,Istanbul,SUV
+Renault,8,115000,1.6,640000,23,1,Gasoline,Automatic,12900,1,Istanbul,C
+Toyota,11,159000,1.4,590000,42,0,Diesel,Automatic,0,3 or more,Antalya,C
+BMW,6,78000,0.0,1250000,90,0,Electric,Automatic,0,1,Istanbul,C
+Hyundai,2,30000,2.0,660000,25,1,Gasoline,Automatic,38500,1,Antalya,B
+Ford,9,131000,1.8,520000,42,0,Hybrid,Automatic,0,3 or more,Antalya,B
+BMW,7,105000,1.5,1000000,1,1,Hybrid,Automatic,0,3 or more,Istanbul,C
+BMW,4,63000,1.6,1280000,8,1,Hybrid,Automatic,2900,3 or more,Bursa,C
+BMW,12,179000,1.5,970000,56,0,Gasoline,Manual,4700,3 or more,Istanbul,D
+Hyundai,10,150000,1.4,790000,44,0,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Renault,7,106000,1.0,420000,36,0,Gasoline,Automatic,45300,2,Antalya,B
+Volkswagen,4,60000,1.2,1500000,7,1,Diesel,Automatic,0,1,Istanbul,D
+Honda,8,115000,1.3,870000,25,1,Diesel,Manual,0,2,Istanbul,SUV
+Volkswagen,6,93000,1.5,720000,44,0,Gasoline,Manual,0,2,Bursa,C
+Hyundai,15,213000,1.6,380000,26,1,Hybrid,Automatic,0,2,Istanbul,C
+Ford,9,130000,2.0,930000,52,0,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+Volkswagen,11,160000,1.2,740000,2,1,Gasoline,Manual,27200,2,Izmir,SUV
+Fiat,6,88000,1.8,730000,18,1,Hybrid,Automatic,47200,2,Istanbul,C
+BMW,6,89000,1.5,1050000,15,1,Gasoline,Automatic,0,2,Istanbul,C
+Ford,12,176000,1.4,360000,79,0,Gasoline,Manual,12600,3 or more,Istanbul,B
+BMW,6,79000,1.4,1220000,14,1,Diesel,Automatic,0,1,Ankara,C
+Mercedes,11,162000,1.6,720000,12,1,Diesel,Automatic,0,3 or more,Istanbul,C
+Mercedes,7,102000,1.6,1570000,38,0,Gasoline,Automatic,0,2,Ankara,SUV
+Volkswagen,4,61000,1.4,1350000,30,1,Gasoline,Automatic,43000,1,Ankara,SUV
+Volkswagen,6,93000,1.8,1100000,49,0,Hybrid,Automatic,0,2,Izmir,D
+Mercedes,7,102000,1.6,1300000,19,1,Diesel,Automatic,44600,1,Adana,SUV
+Mercedes,15,216000,1.8,540000,30,1,Hybrid,Automatic,0,3 or more,Ankara,C
+Volkswagen,2,29000,0.0,1250000,60,0,Electric,Automatic,0,1,Bursa,C
+BMW,1,17000,1.6,2690000,20,1,Diesel,Automatic,0,2,Istanbul,D
+Mercedes,1,17000,1.2,2420000,55,0,Diesel,Automatic,0,3 or more,Istanbul,D
+Hyundai,8,116000,1.0,610000,2,1,Diesel,Automatic,24500,2,Ankara,C
+Toyota,15,225000,1.3,350000,6,1,Gasoline,Manual,0,3 or more,Izmir,C
+Peugeot,1,14000,1.5,730000,84,0,Diesel,Manual,9500,1,Istanbul,B
+Volkswagen,14,200000,1.4,580000,34,0,Gasoline,Manual,36800,2,Antalya,D
+Hyundai,13,189000,1.0,360000,70,0,Diesel,Automatic,88700,1,Kocaeli,C
+BMW,13,186000,1.3,1050000,15,1,Diesel,Automatic,15400,3 or more,Istanbul,D
+Honda,5,75000,1.8,1190000,88,0,Hybrid,Automatic,30500,2,Adana,SUV
+Volkswagen,12,179000,1.8,510000,80,0,Hybrid,Automatic,47500,3 or more,Ankara,C
+Mercedes,4,62000,0.0,2160000,23,1,Electric,Automatic,0,1,Konya,D
+Toyota,14,205000,1.6,500000,56,0,Gasoline,Manual,0,2,Istanbul,SUV
+Hyundai,15,216000,2.0,310000,6,1,Gasoline,Automatic,21900,3 or more,Izmir,B
+Peugeot,5,75000,2.0,770000,9,1,Diesel,Automatic,28900,2,Kocaeli,C
+Ford,6,87000,2.0,750000,79,0,Diesel,Automatic,64400,1,Istanbul,C
+Hyundai,8,118000,1.0,380000,20,1,Gasoline,Manual,104000,2,Bursa,C
+Toyota,7,100000,1.4,930000,8,1,Diesel,Automatic,27200,2,Izmir,SUV
+BMW,3,45000,1.3,2120000,13,1,Gasoline,Automatic,0,2,Istanbul,D
+Hyundai,1,13000,1.6,690000,12,1,Gasoline,Manual,0,1,Izmir,B
+Fiat,12,172000,1.6,450000,32,0,Diesel,Automatic,0,3 or more,Istanbul,C
+Peugeot,2,26000,1.2,1360000,68,0,Diesel,Manual,0,3 or more,Ankara,SUV
+Volkswagen,9,134000,1.8,820000,29,1,Hybrid,Automatic,123400,3 or more,Istanbul,D
+Hyundai,9,135000,1.5,450000,3,1,Gasoline,Automatic,0,2,Antalya,B
+Toyota,14,200000,1.5,440000,25,1,Gasoline,Manual,28700,2,Bursa,SUV
+Hyundai,14,205000,0.0,320000,8,1,Electric,Automatic,0,3 or more,Izmir,B
+Peugeot,1,5000,1.5,1560000,3,1,Gasoline,Manual,0,1,Ankara,SUV
+Toyota,3,41000,2.0,730000,87,0,Gasoline,Automatic,16000,1,Ankara,B
+Honda,12,177000,1.6,510000,22,1,Gasoline,Automatic,0,2,Izmir,C
+Peugeot,15,226000,1.4,350000,41,0,Gasoline,Automatic,6600,3 or more,Istanbul,B
+BMW,7,97000,1.4,1390000,28,1,Diesel,Automatic,31000,1,Bursa,SUV
+Renault,15,215000,1.3,360000,18,1,Diesel,Automatic,19700,2,Istanbul,B
+Mercedes,8,119000,1.0,1180000,51,0,Gasoline,Automatic,0,3 or more,Bursa,C
+Hyundai,8,122000,1.5,400000,13,1,Gasoline,Automatic,29600,1,Istanbul,B
+Honda,6,82000,1.8,1230000,10,1,Hybrid,Automatic,0,2,Ankara,SUV
+Renault,10,142000,1.6,550000,32,0,Diesel,Automatic,15400,3 or more,Istanbul,C
+Mercedes,7,95000,1.6,1270000,9,1,Diesel,Automatic,81800,2,Ankara,SUV
+BMW,11,155000,1.5,830000,52,0,Diesel,Automatic,2500,3 or more,Istanbul,C
+Toyota,14,202000,1.4,350000,54,0,Gasoline,Manual,6900,3 or more,Konya,B
+Toyota,3,46000,1.6,830000,87,0,Hybrid,Automatic,2700,3 or more,Bursa,B
+Honda,9,125000,0.0,960000,39,0,Electric,Automatic,0,2,Istanbul,SUV
+Toyota,3,41000,0.0,1040000,38,0,Electric,Automatic,25700,1,Istanbul,C
+Volkswagen,6,93000,1.0,1230000,21,1,Gasoline,Manual,0,2,Ankara,D
+Fiat,13,195000,0.0,360000,20,1,Electric,Automatic,18500,3 or more,Ankara,C
+Toyota,15,215000,1.0,340000,17,1,Diesel,Manual,0,2,Bursa,C
+Honda,5,67000,1.0,1280000,4,1,Gasoline,Automatic,0,3 or more,Konya,SUV
+Peugeot,9,133000,0.0,960000,10,1,Electric,Automatic,9300,3 or more,Istanbul,SUV
+Toyota,8,120000,1.6,720000,11,1,Hybrid,Automatic,0,2,Kocaeli,C
+Volkswagen,9,135000,1.3,1110000,4,1,Diesel,Automatic,0,2,Istanbul,D
+Hyundai,3,48000,2.0,490000,9,1,Gasoline,Automatic,110800,1,Istanbul,B
+Peugeot,2,31000,1.2,1120000,22,1,Diesel,Automatic,20000,1,Antalya,C
+Volkswagen,1,12000,2.0,1120000,2,1,Diesel,Automatic,0,1,Izmir,C
+Peugeot,13,188000,1.6,700000,29,1,Diesel,Automatic,0,1,Istanbul,SUV
+Mercedes,3,47000,1.6,1810000,20,1,Hybrid,Automatic,0,2,Istanbul,SUV
+Fiat,4,59000,2.0,780000,9,1,Gasoline,Manual,33500,1,Ankara,C
+Peugeot,10,142000,1.2,420000,40,0,Diesel,Automatic,0,3 or more,Bursa,B
+Honda,1,14000,1.3,1080000,47,0,Gasoline,Automatic,126900,1,Ankara,C
+Mercedes,13,186000,1.5,1010000,27,1,Diesel,Automatic,0,3 or more,Konya,SUV
+BMW,12,180000,1.2,900000,11,1,Diesel,Automatic,0,1,Istanbul,SUV
+Peugeot,8,119000,1.6,730000,84,0,Hybrid,Automatic,2500,3 or more,Istanbul,C
+Fiat,15,223000,1.6,320000,25,1,Gasoline,Automatic,60200,3 or more,Istanbul,B
+Toyota,7,97000,1.6,780000,9,1,Gasoline,Manual,0,2,Istanbul,C
+BMW,7,100000,1.3,1490000,12,1,Diesel,Automatic,0,2,Kocaeli,SUV
+Toyota,9,133000,1.4,810000,20,1,Diesel,Automatic,0,2,Istanbul,SUV
+Volkswagen,11,155000,0.0,580000,25,1,Electric,Automatic,2500,2,Ankara,C
+Volkswagen,9,130000,1.2,610000,56,0,Diesel,Automatic,84600,2,Istanbul,C
+Mercedes,7,97000,2.0,1270000,83,0,Gasoline,Automatic,0,1,Ankara,SUV
+Toyota,1,22000,1.6,1680000,89,0,Gasoline,Automatic,2500,1,Istanbul,SUV
+Honda,11,156000,1.5,580000,70,0,Gasoline,Automatic,0,1,Istanbul,C
+Hyundai,6,86000,1.3,650000,15,1,Gasoline,Automatic,87700,2,Istanbul,C
+Volkswagen,9,132000,1.6,900000,18,1,Diesel,Automatic,2500,1,Konya,SUV
+Hyundai,10,151000,1.0,580000,65,0,Diesel,Automatic,46600,2,Istanbul,C
+Fiat,9,135000,1.4,620000,84,0,Gasoline,Automatic,0,3 or more,Antalya,C
+Renault,14,194000,1.5,340000,24,1,Diesel,Automatic,43500,3 or more,Istanbul,B
+Honda,13,193000,1.5,510000,10,1,Gasoline,Manual,51500,3 or more,Istanbul,SUV
+Fiat,13,192000,2.0,420000,65,0,Gasoline,Automatic,0,2,Istanbul,C
+BMW,1,17000,1.2,1530000,10,1,Diesel,Automatic,16100,2,Istanbul,C
+Toyota,3,41000,1.4,1000000,8,1,Gasoline,Automatic,0,1,Adana,C
+Peugeot,11,160000,0.0,770000,58,0,Electric,Automatic,0,2,Kocaeli,SUV
+Peugeot,4,49000,1.0,1040000,22,1,Diesel,Automatic,16100,1,Adana,C
+Honda,15,218000,1.6,340000,4,1,Diesel,Manual,0,3 or more,Adana,C
+Toyota,2,30000,1.3,1550000,1,1,Gasoline,Automatic,53900,3 or more,Izmir,SUV
+Ford,6,78000,1.6,990000,18,1,Hybrid,Automatic,2500,3 or more,Izmir,SUV
+Volkswagen,1,15000,1.5,1320000,31,0,Hybrid,Automatic,0,1,Istanbul,C
+Mercedes,9,131000,1.6,810000,76,0,Diesel,Automatic,56600,2,Istanbul,C
+Toyota,12,173000,1.4,510000,41,0,Diesel,Automatic,0,2,Ankara,C
+Ford,6,83000,1.6,520000,19,1,Gasoline,Manual,0,2,Istanbul,B
+Honda,10,144000,1.5,510000,46,0,Diesel,Manual,0,1,Istanbul,C
+Fiat,9,134000,1.5,410000,22,1,Gasoline,Automatic,0,3 or more,Bursa,B
+Renault,5,74000,1.5,560000,11,1,Gasoline,Automatic,0,1,Adana,B
+Toyota,5,85000,2.0,640000,25,1,Gasoline,Automatic,0,2,Istanbul,B
+Mercedes,14,210000,1.4,610000,1,1,Gasoline,Manual,40700,3 or more,Adana,SUV
+Toyota,7,101000,1.8,500000,26,1,Hybrid,Automatic,58600,2,Bursa,B
+Toyota,2,24000,1.4,1170000,25,1,Diesel,Automatic,0,1,Izmir,C
+Honda,7,103000,1.5,890000,8,1,Gasoline,Automatic,0,1,Ankara,SUV
+Fiat,12,170000,1.2,300000,21,1,Gasoline,Manual,11800,3 or more,Ankara,C
+Toyota,3,41000,1.2,1350000,22,1,Gasoline,Automatic,0,1,Antalya,SUV
+Hyundai,9,134000,1.4,310000,90,0,Gasoline,Automatic,71800,2,Kocaeli,B
+Fiat,6,86000,2.0,470000,23,1,Gasoline,Automatic,0,2,Antalya,B
+Hyundai,1,15000,1.4,830000,2,1,Gasoline,Automatic,20700,1,Bursa,B
+Renault,13,196000,2.0,320000,29,1,Diesel,Automatic,0,3 or more,Istanbul,B
+BMW,7,107000,0.0,1620000,87,0,Electric,Automatic,0,2,Istanbul,D
+BMW,10,140000,1.5,680000,26,1,Hybrid,Automatic,189000,3 or more,Izmir,C
+Fiat,12,178000,1.5,400000,80,0,Gasoline,Automatic,54500,3 or more,Izmir,C
+BMW,15,222000,1.4,760000,5,1,Gasoline,Automatic,0,1,Ankara,SUV
+Peugeot,2,27000,2.0,880000,18,1,Diesel,Automatic,32400,1,Ankara,B
+Fiat,8,108000,1.4,550000,37,0,Diesel,Manual,2500,3 or more,Bursa,C
+Hyundai,12,179000,1.5,340000,30,1,Gasoline,Manual,42900,3 or more,Istanbul,B
+Fiat,3,44000,1.4,630000,23,1,Diesel,Automatic,0,1,Istanbul,B
+BMW,2,29000,1.3,2310000,61,0,Gasoline,Automatic,0,1,Konya,D
+BMW,9,132000,1.5,1480000,25,1,Hybrid,Automatic,0,2,Adana,D
+Ford,4,56000,0.0,1350000,42,0,Electric,Automatic,0,3 or more,Istanbul,SUV
+Renault,9,126000,1.4,390000,76,0,Gasoline,Manual,0,3 or more,Kocaeli,B
+Renault,7,106000,1.0,430000,29,1,Gasoline,Automatic,0,1,Bursa,B
+Toyota,6,84000,1.0,930000,34,0,Diesel,Manual,48900,1,Istanbul,SUV
+Peugeot,14,203000,1.4,550000,45,0,Diesel,Automatic,41300,2,Antalya,SUV
+Mercedes,2,41000,2.0,1990000,70,0,Diesel,Manual,26400,1,Bursa,SUV
+Hyundai,11,161000,1.5,420000,11,1,Diesel,Automatic,30600,2,Ankara,C
+Honda,4,62000,1.0,1210000,30,1,Gasoline,Automatic,14600,2,Izmir,SUV
+Peugeot,13,183000,1.0,330000,80,0,Diesel,Automatic,19400,2,Ankara,B
+Toyota,13,196000,1.6,330000,6,1,Diesel,Manual,0,3 or more,Izmir,B
+Honda,3,41000,1.2,1080000,25,1,Diesel,Automatic,0,1,Istanbul,C
+BMW,1,14000,1.8,1470000,22,1,Hybrid,Automatic,0,1,Kocaeli,C
+BMW,2,31000,1.4,1340000,25,1,Gasoline,Automatic,11600,1,Izmir,C
+Hyundai,6,82000,1.3,600000,32,0,Gasoline,Manual,79700,1,Izmir,C
+Fiat,12,164000,0.0,350000,4,1,Electric,Automatic,27900,1,Izmir,B
+Fiat,3,39000,1.6,720000,28,1,Gasoline,Automatic,0,1,Istanbul,B
+BMW,3,41000,1.4,1650000,11,1,Diesel,Automatic,34300,1,Izmir,SUV
+BMW,2,36000,1.6,2160000,18,1,Diesel,Automatic,3500,1,Antalya,D
+Ford,5,72000,1.5,810000,2,1,Diesel,Automatic,20300,3 or more,Bursa,C
+Renault,2,34000,1.3,920000,9,1,Diesel,Automatic,0,1,Adana,C
+Hyundai,15,211000,0.0,380000,7,1,Electric,Automatic,0,2,Izmir,C
+Hyundai,8,116000,1.5,490000,11,1,Diesel,Automatic,0,3 or more,Istanbul,B
+Mercedes,15,225000,2.0,760000,13,1,Gasoline,Automatic,11300,3 or more,Ankara,SUV
+Hyundai,6,79000,1.6,490000,1,1,Hybrid,Automatic,49800,1,Kocaeli,B
+Mercedes,7,101000,1.6,1300000,17,1,Hybrid,Automatic,0,2,Istanbul,D
+Honda,13,188000,1.5,330000,57,0,Diesel,Manual,10600,1,Izmir,C
+Mercedes,4,60000,1.3,1990000,36,0,Diesel,Manual,0,1,Adana,D
+Mercedes,10,140000,2.0,1190000,19,1,Gasoline,Automatic,38100,3 or more,Istanbul,SUV
+Mercedes,3,47000,1.3,1320000,30,1,Diesel,Automatic,0,2,Istanbul,C
+Honda,10,144000,1.0,510000,9,1,Gasoline,Manual,0,3 or more,Bursa,C
+Ford,5,75000,1.4,1140000,29,1,Gasoline,Automatic,0,2,Istanbul,SUV
+Ford,12,179000,0.0,410000,18,1,Electric,Automatic,0,3 or more,Istanbul,B
+BMW,11,151000,1.3,820000,65,0,Diesel,Automatic,20800,1,Ankara,C
+Hyundai,6,83000,1.6,890000,71,0,Hybrid,Automatic,0,1,Istanbul,C
+BMW,4,59000,2.0,1750000,25,1,Hybrid,Automatic,0,2,Antalya,D
+Renault,8,114000,0.0,690000,15,1,Electric,Automatic,0,3 or more,Istanbul,C
+Toyota,5,72000,0.0,630000,4,1,Electric,Automatic,17700,2,Izmir,B
+Ford,7,101000,2.0,900000,50,0,Gasoline,Manual,0,1,Izmir,SUV
+BMW,2,27000,1.3,2070000,87,0,Gasoline,Automatic,0,1,Istanbul,SUV
+Toyota,2,30000,2.0,1000000,30,1,Diesel,Automatic,69500,1,Izmir,C
+Honda,8,115000,1.6,650000,7,1,Diesel,Automatic,0,2,Kocaeli,C
+Peugeot,4,62000,1.3,1040000,7,1,Diesel,Automatic,0,2,Istanbul,C
+Renault,6,79000,1.2,770000,26,1,Diesel,Automatic,0,1,Antalya,C
+Fiat,2,31000,0.0,810000,39,0,Electric,Automatic,2500,1,Bursa,B
+Honda,10,137000,1.5,760000,15,1,Gasoline,Automatic,0,2,Istanbul,SUV
+Renault,13,189000,1.5,400000,27,1,Gasoline,Automatic,0,3 or more,Kocaeli,C
+BMW,15,219000,1.0,860000,56,0,Gasoline,Automatic,33800,2,Ankara,D
+Hyundai,12,172000,1.6,520000,12,1,Gasoline,Manual,0,1,Istanbul,SUV
+Hyundai,13,183000,1.2,320000,8,1,Gasoline,Automatic,0,2,Bursa,B
+Mercedes,6,86000,1.4,1390000,46,0,Diesel,Automatic,58300,2,Istanbul,SUV
+Toyota,3,38000,1.6,600000,10,1,Diesel,Manual,15100,1,Kocaeli,B
+Ford,6,78000,1.4,1090000,3,1,Gasoline,Manual,0,3 or more,Bursa,SUV
+BMW,13,197000,1.5,470000,88,0,Gasoline,Manual,56900,2,Izmir,C
+Toyota,8,115000,1.3,500000,10,1,Gasoline,Automatic,2500,3 or more,Izmir,B
+Fiat,9,126000,1.0,430000,39,0,Gasoline,Automatic,24900,3 or more,Izmir,B
+BMW,8,120000,2.0,1230000,20,1,Hybrid,Automatic,79700,3 or more,Bursa,D
+Mercedes,5,75000,1.5,1820000,77,0,Diesel,Manual,10500,3 or more,Istanbul,D
+Toyota,6,89000,0.0,540000,33,0,Electric,Automatic,102000,2,Adana,B
+Honda,15,213000,1.3,550000,66,0,Diesel,Automatic,4700,1,Konya,SUV
+Ford,14,204000,1.3,320000,13,1,Gasoline,Manual,30000,2,Istanbul,B
+Hyundai,5,75000,1.4,830000,36,0,Gasoline,Automatic,0,3 or more,Istanbul,C
+Peugeot,13,187000,1.4,360000,44,0,Gasoline,Automatic,0,3 or more,Ankara,B
+Renault,13,179000,1.5,320000,8,1,Diesel,Automatic,0,2,Istanbul,B
+Mercedes,7,99000,2.0,1430000,36,0,Diesel,Manual,0,2,Kocaeli,SUV
+Renault,3,47000,1.4,1010000,75,0,Diesel,Automatic,0,3 or more,Adana,C
+Hyundai,4,57000,1.0,630000,56,0,Gasoline,Automatic,51800,1,Istanbul,B
+Mercedes,9,132000,1.3,1050000,5,1,Gasoline,Manual,0,2,Istanbul,SUV
+Toyota,15,217000,1.2,300000,75,0,Gasoline,Manual,2600,3 or more,Izmir,C
+Peugeot,13,182000,0.0,490000,15,1,Electric,Automatic,0,2,Istanbul,C
+Renault,13,183000,0.0,390000,85,0,Electric,Automatic,81100,2,Izmir,B
+Volkswagen,5,76000,1.0,1010000,8,1,Gasoline,Manual,0,1,Bursa,D
+Honda,1,12000,1.4,1590000,5,1,Gasoline,Manual,0,1,Istanbul,SUV
+Volkswagen,14,203000,0.0,420000,24,1,Electric,Automatic,0,3 or more,Izmir,C
+Hyundai,9,131000,2.0,440000,54,0,Diesel,Automatic,4300,3 or more,Istanbul,B
+Volkswagen,2,34000,1.2,1510000,13,1,Gasoline,Automatic,0,1,Ankara,SUV
+Hyundai,5,78000,1.4,390000,17,1,Gasoline,Automatic,84100,2,Ankara,B
+Volkswagen,10,141000,2.0,540000,24,1,Hybrid,Automatic,59400,3 or more,Izmir,C
+Hyundai,4,60000,2.0,900000,10,1,Gasoline,Automatic,0,2,Bursa,C
+Honda,4,61000,1.6,1020000,10,1,Gasoline,Automatic,0,3 or more,Ankara,C
+Volkswagen,15,214000,1.3,400000,18,1,Gasoline,Manual,0,3 or more,Izmir,SUV
+Peugeot,2,31000,1.4,1130000,49,0,Gasoline,Automatic,25200,2,Istanbul,C
+Ford,13,190000,1.3,760000,53,0,Diesel,Automatic,0,3 or more,Antalya,SUV
+Mercedes,6,82000,1.6,1860000,8,1,Diesel,Automatic,3900,3 or more,Kocaeli,D
+Honda,13,194000,1.5,360000,77,0,Gasoline,Manual,0,3 or more,Istanbul,C
+Toyota,13,193000,1.6,330000,5,1,Hybrid,Automatic,15500,3 or more,Izmir,B
+Peugeot,1,5000,1.5,680000,14,1,Gasoline,Manual,0,1,Istanbul,B
+Peugeot,4,52000,1.6,730000,8,1,Gasoline,Automatic,0,2,Kocaeli,B
+Renault,13,186000,2.0,380000,3,1,Hybrid,Automatic,0,2,Istanbul,C
+Honda,12,173000,1.5,470000,22,1,Hybrid,Automatic,0,3 or more,Bursa,C
+Renault,6,87000,1.4,740000,17,1,Gasoline,Automatic,0,1,Ankara,C
+Hyundai,1,9000,1.4,1370000,2,1,Gasoline,Automatic,0,1,Ankara,SUV
+BMW,5,76000,1.0,1120000,74,0,Gasoline,Manual,40200,3 or more,Ankara,C
+Renault,1,12000,1.2,720000,7,1,Gasoline,Automatic,0,1,Ankara,B
+BMW,11,160000,1.4,1140000,20,1,Diesel,Automatic,0,1,Antalya,D
+Volkswagen,9,132000,1.3,760000,25,1,Gasoline,Manual,9200,3 or more,Ankara,SUV
+Hyundai,14,204000,1.6,610000,21,1,Hybrid,Automatic,0,3 or more,Ankara,SUV
+Toyota,5,72000,1.4,1370000,14,1,Gasoline,Automatic,0,1,Istanbul,SUV
+Honda,4,54000,1.4,1190000,26,1,Diesel,Manual,0,1,Adana,SUV
+Toyota,10,143000,1.2,490000,70,0,Gasoline,Automatic,0,2,Istanbul,B
+Hyundai,6,91000,1.6,670000,27,1,Gasoline,Manual,0,1,Istanbul,C
+Toyota,12,175000,1.4,400000,53,0,Gasoline,Manual,0,3 or more,Adana,C
+Honda,11,163000,1.5,640000,30,1,Hybrid,Automatic,0,2,Antalya,SUV
+Hyundai,13,192000,1.5,580000,49,0,Gasoline,Automatic,2500,2,Ankara,SUV
+Peugeot,10,145000,1.5,460000,28,1,Gasoline,Automatic,0,2,Istanbul,B
+Hyundai,10,147000,1.8,780000,29,1,Hybrid,Automatic,0,3 or more,Bursa,SUV
+BMW,15,219000,2.0,640000,13,1,Gasoline,Manual,0,1,Antalya,SUV
+Honda,1,15000,1.0,1190000,30,1,Gasoline,Manual,0,1,Antalya,C
+Mercedes,4,56000,1.0,1610000,81,0,Diesel,Automatic,53100,2,Izmir,SUV
+Mercedes,6,89000,1.2,1770000,78,0,Gasoline,Automatic,20500,2,Adana,D
+Volkswagen,9,132000,1.2,520000,2,1,Diesel,Manual,0,3 or more,Istanbul,C
+Ford,14,198000,2.0,390000,35,0,Diesel,Manual,10800,2,Konya,C
+Honda,1,18000,1.5,1400000,53,0,Gasoline,Manual,66700,1,Antalya,SUV
+Peugeot,10,146000,1.4,930000,63,0,Gasoline,Automatic,17500,3 or more,Izmir,SUV
+Fiat,6,82000,1.6,820000,81,0,Gasoline,Automatic,16400,2,Konya,C
+BMW,1,24000,1.5,2250000,20,1,Diesel,Automatic,54800,1,Konya,D
+Volkswagen,15,221000,1.6,580000,27,1,Hybrid,Automatic,0,2,Istanbul,D
+Toyota,8,113000,1.3,410000,81,0,Gasoline,Manual,2500,2,Antalya,B
+Hyundai,10,145000,1.6,820000,26,1,Hybrid,Automatic,0,3 or more,Istanbul,SUV
+Renault,13,196000,1.6,340000,22,1,Gasoline,Automatic,0,2,Ankara,B
+Peugeot,6,93000,0.0,950000,14,1,Electric,Automatic,27700,2,Kocaeli,SUV
+Toyota,2,30000,1.5,1100000,6,1,Gasoline,Automatic,46700,2,Istanbul,C
+Peugeot,2,29000,1.5,1320000,1,1,Gasoline,Automatic,0,1,Istanbul,SUV
+Hyundai,13,194000,1.2,370000,28,1,Gasoline,Automatic,0,3 or more,Istanbul,C
+Ford,8,120000,1.6,660000,10,1,Hybrid,Automatic,55000,2,Istanbul,C
+BMW,13,186000,2.0,1100000,16,1,Diesel,Automatic,0,3 or more,Izmir,D
+Renault,8,109000,1.4,420000,56,0,Gasoline,Automatic,44500,3 or more,Bursa,B
+Fiat,1,23000,1.3,800000,57,0,Diesel,Automatic,0,2,Izmir,B
+Honda,10,145000,1.4,900000,17,1,Diesel,Automatic,0,2,Istanbul,SUV
+BMW,4,52000,2.0,1320000,48,0,Gasoline,Automatic,0,2,Konya,C
+Mercedes,12,166000,1.3,1040000,30,1,Diesel,Manual,0,2,Istanbul,D
+Volkswagen,5,76000,1.0,1180000,2,1,Diesel,Automatic,0,2,Ankara,SUV
+Mercedes,13,190000,1.5,840000,44,0,Gasoline,Automatic,101900,3 or more,Adana,SUV
+Renault,5,75000,0.0,540000,1,1,Electric,Automatic,0,2,Istanbul,B
+Renault,11,161000,2.0,300000,13,1,Hybrid,Automatic,26600,3 or more,Istanbul,B
+Ford,3,60000,1.3,1330000,24,1,Diesel,Manual,8900,1,Ankara,SUV
+Ford,12,173000,1.6,670000,29,1,Gasoline,Automatic,0,2,Ankara,SUV
+Volkswagen,9,129000,1.6,1010000,70,0,Diesel,Manual,15500,3 or more,Istanbul,D
+Hyundai,15,209000,1.6,330000,8,1,Gasoline,Automatic,13400,3 or more,Ankara,B
+Hyundai,5,66000,0.0,870000,87,0,Electric,Automatic,0,3 or more,Konya,C
+Peugeot,14,200000,1.6,420000,35,0,Diesel,Automatic,20600,3 or more,Adana,B
+Ford,12,173000,1.6,700000,12,1,Diesel,Automatic,0,3 or more,Adana,SUV
+Hyundai,4,54000,1.4,1050000,27,1,Diesel,Automatic,16200,1,Istanbul,SUV
+Ford,5,67000,0.0,900000,8,1,Electric,Automatic,0,2,Istanbul,C
+Toyota,11,156000,1.5,890000,59,0,Gasoline,Automatic,0,2,Adana,SUV
+Peugeot,10,148000,1.5,750000,23,1,Hybrid,Automatic,4200,3 or more,Istanbul,SUV
+Volkswagen,9,129000,1.5,1070000,21,1,Hybrid,Automatic,0,2,Istanbul,D
+Renault,15,215000,1.4,370000,45,0,Diesel,Automatic,0,3 or more,Istanbul,C
+Renault,11,158000,1.3,520000,38,0,Gasoline,Automatic,0,2,Antalya,C
+Honda,7,102000,1.2,990000,23,1,Diesel,Automatic,27100,1,Istanbul,SUV
+Honda,11,158000,1.5,440000,7,1,Gasoline,Manual,0,3 or more,Ankara,C
+Renault,14,211000,0.0,430000,51,0,Electric,Automatic,18000,3 or more,Kocaeli,C
+Volkswagen,4,60000,1.5,1440000,78,0,Gasoline,Manual,0,1,Istanbul,D
+Ford,6,86000,1.4,710000,4,1,Gasoline,Manual,13700,3 or more,Adana,C
+Ford,11,157000,1.6,460000,66,0,Diesel,Manual,0,3 or more,Bursa,C
+Fiat,4,62000,1.3,800000,28,1,Diesel,Automatic,4500,1,Konya,C
+Volkswagen,3,43000,1.5,1260000,14,1,Diesel,Manual,3900,1,Istanbul,SUV
+Volkswagen,4,57000,1.5,1300000,51,0,Gasoline,Automatic,0,2,Izmir,SUV
+BMW,14,202000,1.2,630000,13,1,Diesel,Automatic,0,2,Istanbul,C
+BMW,1,9000,1.5,2270000,7,1,Diesel,Automatic,0,1,Antalya,SUV
+Ford,10,149000,2.0,400000,78,0,Gasoline,Automatic,15800,1,Istanbul,B
+Peugeot,15,214000,1.3,350000,5,1,Gasoline,Manual,0,3 or more,Istanbul,C
+Ford,10,140000,2.0,570000,80,0,Gasoline,Manual,0,3 or more,Izmir,C
+Fiat,1,16000,1.3,1240000,80,0,Gasoline,Automatic,0,2,Adana,C
+Hyundai,1,14000,1.5,1030000,6,1,Gasoline,Automatic,0,1,Istanbul,C
+Volkswagen,2,26000,1.4,1130000,18,1,Diesel,Automatic,0,1,Ankara,C
+Hyundai,14,193000,1.4,350000,29,1,Gasoline,Manual,0,3 or more,Ankara,C
+BMW,4,61000,1.3,1600000,6,1,Diesel,Automatic,68900,1,Istanbul,SUV
+Mercedes,12,171000,1.5,920000,13,1,Gasoline,Automatic,72000,2,Kocaeli,SUV
+Volkswagen,15,220000,1.6,560000,8,1,Gasoline,Automatic,54900,3 or more,Istanbul,D
+Hyundai,2,34000,1.5,950000,10,1,Diesel,Manual,0,1,Bursa,C
+Mercedes,15,222000,1.3,460000,75,0,Diesel,Manual,0,1,Ankara,C
+Toyota,13,191000,1.5,420000,57,0,Diesel,Automatic,0,2,Ankara,B
+BMW,7,100000,2.0,1480000,14,1,Hybrid,Automatic,0,2,Istanbul,SUV
+Toyota,8,116000,1.6,530000,73,0,Gasoline,Automatic,0,3 or more,Ankara,B
+Toyota,5,82000,1.6,1240000,10,1,Hybrid,Automatic,0,1,Ankara,SUV
+BMW,9,126000,1.4,940000,74,0,Gasoline,Manual,0,3 or more,Antalya,C
+Honda,5,69000,1.5,1200000,12,1,Gasoline,Automatic,0,1,Istanbul,SUV
+Volkswagen,3,51000,1.3,1710000,55,0,Gasoline,Automatic,0,1,Antalya,D
+Honda,6,92000,0.0,1270000,33,0,Electric,Automatic,14600,3 or more,Istanbul,SUV
+Renault,14,206000,2.0,360000,6,1,Gasoline,Automatic,0,3 or more,Bursa,C
+Hyundai,8,113000,1.4,970000,83,0,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Fiat,5,80000,0.0,530000,1,1,Electric,Automatic,3300,2,Istanbul,B
+Peugeot,2,29000,1.6,790000,9,1,Diesel,Automatic,0,1,Istanbul,B
+Fiat,14,200000,1.3,310000,18,1,Gasoline,Automatic,0,1,Istanbul,C
+Honda,7,93000,1.5,640000,88,0,Diesel,Automatic,136900,2,Izmir,C
+Toyota,8,120000,2.0,360000,16,1,Diesel,Manual,15500,2,Adana,B
+Honda,4,60000,1.6,1330000,9,1,Diesel,Manual,0,2,Kocaeli,SUV
+Volkswagen,14,203000,1.5,530000,82,0,Gasoline,Manual,25800,2,Kocaeli,SUV
+Hyundai,5,66000,2.0,570000,6,1,Hybrid,Automatic,0,2,Istanbul,B
+BMW,7,101000,1.5,1560000,70,0,Diesel,Automatic,0,2,Bursa,D
+Honda,4,59000,1.3,830000,59,0,Gasoline,Automatic,55300,3 or more,Bursa,C
+Peugeot,13,188000,1.5,340000,20,1,Gasoline,Automatic,2500,2,Ankara,B
+Hyundai,6,86000,1.3,590000,79,0,Gasoline,Automatic,12700,2,Izmir,B
+Peugeot,11,159000,0.0,460000,18,1,Electric,Automatic,60600,3 or more,Istanbul,C
+Hyundai,10,154000,1.5,730000,24,1,Hybrid,Automatic,0,3 or more,Izmir,SUV
+Mercedes,8,111000,1.4,1260000,28,1,Diesel,Automatic,0,3 or more,Ankara,SUV
+Honda,13,191000,0.0,620000,28,1,Electric,Automatic,68200,3 or more,Izmir,SUV
+BMW,2,26000,2.0,2110000,3,1,Gasoline,Automatic,0,1,Ankara,SUV
+Ford,15,211000,1.3,600000,76,0,Diesel,Automatic,13700,3 or more,Istanbul,SUV
+Renault,1,20000,1.6,1060000,23,1,Gasoline,Automatic,0,2,Bursa,C
+BMW,14,205000,1.0,930000,11,1,Gasoline,Automatic,23600,3 or more,Ankara,D
+Mercedes,5,71000,1.0,1170000,53,0,Gasoline,Automatic,5800,1,Izmir,C
+Ford,13,190000,1.6,370000,74,0,Gasoline,Manual,0,3 or more,Istanbul,B
+Honda,8,111000,1.0,680000,20,1,Gasoline,Automatic,42100,3 or more,Ankara,C
+BMW,13,191000,1.5,630000,8,1,Hybrid,Automatic,0,2,Bursa,C
+Ford,4,62000,0.0,690000,85,0,Electric,Automatic,12700,3 or more,Ankara,B
+BMW,7,108000,1.4,1550000,47,0,Diesel,Manual,18900,2,Izmir,SUV
+Hyundai,11,158000,1.5,380000,87,0,Diesel,Manual,33600,2,Istanbul,B
+Fiat,15,218000,1.2,300000,7,1,Gasoline,Manual,23700,1,Izmir,C
+Ford,5,75000,1.0,1180000,37,0,Diesel,Automatic,32100,2,Istanbul,SUV
+Mercedes,7,99000,1.2,1620000,23,1,Gasoline,Automatic,2500,2,Adana,D
+Fiat,12,174000,1.4,490000,22,1,Gasoline,Automatic,0,3 or more,Istanbul,C
+Toyota,9,137000,1.8,650000,1,1,Hybrid,Automatic,4700,2,Ankara,C
+Mercedes,9,125000,1.3,800000,70,0,Diesel,Manual,19500,1,Ankara,C
+Hyundai,12,176000,1.2,340000,21,1,Gasoline,Manual,0,1,Istanbul,C
+Fiat,8,116000,2.0,560000,19,1,Diesel,Automatic,31900,2,Istanbul,C
+Volkswagen,8,114000,1.5,760000,13,1,Gasoline,Automatic,0,2,Kocaeli,C
+Ford,5,75000,1.3,480000,17,1,Gasoline,Manual,34900,3 or more,Antalya,B
+Toyota,5,80000,2.0,880000,7,1,Diesel,Manual,0,1,Izmir,C
+Fiat,6,82000,1.2,540000,74,0,Diesel,Automatic,0,3 or more,Ankara,B
+Peugeot,7,102000,1.8,950000,75,0,Hybrid,Automatic,0,1,Konya,C
+Ford,12,163000,1.4,700000,56,0,Gasoline,Automatic,3200,2,Izmir,SUV
+Toyota,5,68000,1.4,560000,5,1,Gasoline,Automatic,0,3 or more,Istanbul,B
+Fiat,14,203000,1.3,320000,22,1,Gasoline,Automatic,72500,3 or more,Istanbul,C
+Mercedes,3,40000,1.0,1760000,17,1,Diesel,Manual,18900,1,Kocaeli,SUV
+Toyota,8,116000,1.2,750000,68,0,Diesel,Automatic,10200,2,Istanbul,C
+Hyundai,10,142000,1.3,580000,12,1,Diesel,Automatic,0,2,Antalya,C
+BMW,6,84000,1.5,1080000,44,0,Gasoline,Automatic,129200,2,Konya,C
+BMW,7,106000,1.3,1520000,60,0,Diesel,Automatic,6000,2,Adana,D
+Hyundai,8,109000,1.3,720000,36,0,Diesel,Manual,0,3 or more,Ankara,SUV
+Renault,15,215000,1.6,350000,15,1,Gasoline,Manual,19900,3 or more,Istanbul,B
+Volkswagen,5,73000,1.4,880000,54,0,Diesel,Manual,0,2,Izmir,C
+Mercedes,6,84000,2.0,1550000,15,1,Gasoline,Manual,33000,1,Izmir,D
+Toyota,2,24000,1.4,1000000,29,1,Diesel,Manual,8000,1,Istanbul,C
+Hyundai,4,57000,1.5,890000,7,1,Gasoline,Automatic,0,3 or more,Ankara,C
+Fiat,13,193000,1.6,370000,25,1,Hybrid,Automatic,0,2,Bursa,B
+Peugeot,9,133000,1.3,800000,67,0,Gasoline,Manual,6400,2,Ankara,SUV
+Peugeot,8,114000,1.4,850000,49,0,Diesel,Automatic,67100,3 or more,Istanbul,SUV
+Ford,10,144000,1.4,740000,11,1,Diesel,Manual,9800,3 or more,Istanbul,SUV
+Mercedes,12,167000,1.0,670000,75,0,Gasoline,Manual,6400,2,Ankara,C
+Hyundai,14,199000,1.4,570000,26,1,Diesel,Automatic,11200,3 or more,Istanbul,SUV
+Peugeot,7,96000,1.6,720000,21,1,Diesel,Manual,169500,3 or more,Ankara,SUV
+BMW,3,51000,1.6,1720000,16,1,Hybrid,Automatic,107100,1,Antalya,SUV
+Volkswagen,9,131000,1.2,540000,21,1,Diesel,Automatic,82500,3 or more,Adana,C
+Ford,13,192000,1.2,550000,1,1,Diesel,Automatic,0,1,Istanbul,SUV
+BMW,15,217000,1.5,740000,44,0,Gasoline,Automatic,31200,2,Ankara,SUV
+BMW,8,114000,0.0,1640000,47,0,Electric,Automatic,26400,3 or more,Istanbul,D
+Renault,15,219000,1.4,340000,32,0,Diesel,Manual,27800,3 or more,Istanbul,C
+Mercedes,10,148000,1.8,1190000,84,0,Hybrid,Automatic,0,3 or more,Bursa,D
+Hyundai,15,215000,1.4,360000,4,1,Gasoline,Automatic,5100,3 or more,Istanbul,B
+Honda,8,120000,1.3,1020000,20,1,Diesel,Automatic,8700,3 or more,Kocaeli,SUV
+Peugeot,11,164000,1.4,590000,22,1,Gasoline,Automatic,0,2,Adana,C
+Renault,2,29000,1.3,740000,24,1,Gasoline,Automatic,7000,1,Ankara,B
+Honda,10,149000,1.5,920000,22,1,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Peugeot,8,114000,1.6,960000,25,1,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+Hyundai,1,6000,1.0,1040000,44,0,Diesel,Automatic,2500,1,Antalya,C
+Volkswagen,8,116000,1.4,650000,78,0,Diesel,Manual,0,2,Ankara,C
+Renault,14,212000,1.5,360000,14,1,Gasoline,Manual,125800,3 or more,Kocaeli,B
+Fiat,15,221000,1.4,320000,8,1,Gasoline,Automatic,0,3 or more,Ankara,B
+Toyota,9,131000,1.6,900000,13,1,Gasoline,Automatic,5500,3 or more,Istanbul,SUV
+Fiat,10,144000,1.0,380000,10,1,Diesel,Automatic,0,2,Izmir,B
+Honda,13,193000,1.3,620000,71,0,Gasoline,Automatic,0,1,Bursa,SUV
+Toyota,12,179000,1.4,800000,60,0,Gasoline,Automatic,19900,3 or more,Istanbul,SUV
+Fiat,12,178000,1.5,350000,52,0,Diesel,Manual,0,2,Ankara,B
+Peugeot,5,77000,1.5,560000,62,0,Gasoline,Manual,36200,1,Istanbul,B
+Honda,7,99000,1.3,800000,3,1,Gasoline,Automatic,0,2,Antalya,C
+Ford,11,155000,1.5,820000,9,1,Diesel,Automatic,0,2,Bursa,SUV
+Ford,4,53000,2.0,560000,39,0,Gasoline,Manual,27900,1,Izmir,B
+Ford,15,223000,1.6,350000,32,0,Diesel,Manual,31000,2,Kocaeli,B
+BMW,9,123000,1.6,1370000,12,1,Gasoline,Automatic,0,3 or more,Istanbul,D
+Toyota,12,172000,1.5,360000,64,0,Gasoline,Automatic,250000,3 or more,Konya,B
+Volkswagen,3,42000,0.0,1570000,6,1,Electric,Automatic,0,1,Izmir,SUV
+Mercedes,12,177000,1.5,910000,74,0,Gasoline,Manual,64800,2,Istanbul,SUV
+Toyota,2,27000,1.5,760000,8,1,Diesel,Automatic,18600,1,Konya,B
+Hyundai,13,183000,1.6,610000,28,1,Hybrid,Automatic,0,3 or more,Izmir,SUV
+BMW,14,199000,1.6,640000,20,1,Hybrid,Automatic,0,3 or more,Ankara,C
+Mercedes,13,189000,1.3,810000,45,0,Diesel,Manual,2500,2,Kocaeli,SUV
+Peugeot,11,158000,1.6,350000,11,1,Hybrid,Automatic,0,2,Adana,B
+Honda,14,204000,1.4,580000,89,0,Gasoline,Automatic,2500,2,Bursa,SUV
+Honda,6,89000,1.4,1300000,55,0,Gasoline,Automatic,0,3 or more,Bursa,SUV
+Volkswagen,11,155000,1.6,830000,89,0,Diesel,Automatic,0,3 or more,Izmir,SUV
+Toyota,3,42000,0.0,720000,20,1,Electric,Automatic,39500,1,Istanbul,B
+Ford,9,133000,0.0,630000,80,0,Electric,Automatic,17800,3 or more,Istanbul,C
+Fiat,1,5000,1.2,990000,7,1,Diesel,Automatic,0,2,Istanbul,C
+Honda,12,168000,0.0,720000,86,0,Electric,Automatic,41600,3 or more,Konya,SUV
+Hyundai,9,130000,1.2,340000,40,0,Gasoline,Manual,56700,2,Ankara,B
+Toyota,8,118000,1.2,940000,25,1,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Hyundai,2,21000,1.8,1030000,64,0,Hybrid,Automatic,0,3 or more,Ankara,C
+Peugeot,14,202000,1.4,550000,79,0,Diesel,Automatic,3900,3 or more,Kocaeli,SUV
+Peugeot,14,201000,1.5,300000,36,0,Gasoline,Automatic,11100,3 or more,Ankara,B
+Ford,15,225000,1.6,390000,12,1,Gasoline,Automatic,107100,3 or more,Adana,SUV
+Peugeot,5,79000,1.6,560000,2,1,Gasoline,Automatic,24800,2,Istanbul,B
+Renault,14,202000,1.3,370000,30,1,Diesel,Automatic,4500,2,Antalya,C
+Volkswagen,1,5000,1.8,1590000,15,1,Hybrid,Automatic,0,2,Ankara,SUV
+Volkswagen,15,220000,1.3,400000,17,1,Diesel,Manual,14000,3 or more,Istanbul,SUV
+Honda,1,15000,2.0,1180000,19,1,Diesel,Automatic,36000,1,Istanbul,C
+Fiat,7,109000,0.0,510000,88,0,Electric,Automatic,11700,1,Antalya,B
+Fiat,8,114000,1.8,430000,28,1,Hybrid,Automatic,0,3 or more,Ankara,B
+Toyota,2,26000,1.4,770000,57,0,Gasoline,Manual,2500,1,Istanbul,B
+Volkswagen,8,115000,1.2,1160000,8,1,Diesel,Automatic,0,3 or more,Konya,D
+Hyundai,10,150000,1.5,670000,11,1,Hybrid,Automatic,0,2,Izmir,SUV
+Renault,3,55000,1.5,810000,6,1,Gasoline,Manual,15000,1,Izmir,C
+Peugeot,1,13000,0.0,940000,35,0,Electric,Automatic,0,1,Istanbul,B
+Mercedes,3,38000,1.6,2480000,26,1,Diesel,Automatic,10800,1,Antalya,D
+Hyundai,7,101000,1.3,1030000,62,0,Gasoline,Automatic,0,1,Istanbul,SUV
+Mercedes,10,144000,1.5,820000,9,1,Diesel,Automatic,45900,2,Antalya,C
+Hyundai,6,85000,1.4,390000,38,0,Gasoline,Manual,0,1,Kocaeli,B
+Volkswagen,8,102000,0.0,1040000,83,0,Electric,Automatic,32300,3 or more,Izmir,SUV
+Mercedes,1,8000,2.0,1570000,76,0,Gasoline,Manual,0,1,Antalya,C
+Toyota,13,187000,1.4,370000,42,0,Diesel,Manual,87100,3 or more,Ankara,B
+Fiat,1,14000,1.5,730000,15,1,Hybrid,Automatic,0,2,Izmir,B
+Mercedes,15,217000,1.0,680000,31,0,Gasoline,Manual,3200,3 or more,Istanbul,SUV
+Honda,2,26000,1.2,1400000,32,0,Diesel,Manual,43100,1,Ankara,SUV
+Toyota,2,23000,1.4,750000,52,0,Diesel,Automatic,13100,1,Izmir,B
+Hyundai,10,140000,1.2,830000,67,0,Diesel,Automatic,0,3 or more,Izmir,SUV
+Hyundai,9,119000,1.4,500000,7,1,Gasoline,Manual,0,1,Izmir,C
+Renault,12,182000,2.0,450000,4,1,Gasoline,Automatic,0,3 or more,Bursa,C
+Volkswagen,12,179000,2.0,780000,22,1,Gasoline,Automatic,0,3 or more,Antalya,D
+Ford,5,71000,1.6,1100000,29,1,Diesel,Automatic,0,2,Istanbul,SUV
+Hyundai,9,131000,1.4,700000,25,1,Gasoline,Manual,9500,3 or more,Ankara,SUV
+Honda,1,9000,1.6,1310000,90,0,Diesel,Automatic,0,2,Bursa,C
+Fiat,13,184000,1.3,360000,30,1,Gasoline,Manual,39400,3 or more,Antalya,C
+Honda,13,185000,1.4,410000,21,1,Diesel,Automatic,0,1,Istanbul,C
+Fiat,15,220000,1.6,300000,23,1,Hybrid,Automatic,0,3 or more,Istanbul,C
+BMW,6,81000,1.4,980000,16,1,Gasoline,Automatic,18100,2,Istanbul,C
+BMW,1,8000,1.5,1460000,13,1,Gasoline,Automatic,0,1,Istanbul,C
+Renault,10,145000,1.5,550000,80,0,Diesel,Automatic,23000,2,Izmir,C
+Volkswagen,4,61000,1.5,1310000,83,0,Gasoline,Automatic,29100,2,Ankara,SUV
+Volkswagen,9,133000,1.6,550000,21,1,Diesel,Manual,0,1,Antalya,C
+Hyundai,8,114000,1.6,410000,58,0,Hybrid,Automatic,39900,3 or more,Ankara,B
+Honda,7,106000,1.4,730000,38,0,Diesel,Manual,22400,2,Ankara,C
+Volkswagen,2,31000,2.0,1340000,4,1,Gasoline,Manual,0,1,Antalya,SUV
+Volkswagen,6,88000,1.6,1180000,84,0,Hybrid,Automatic,0,3 or more,Istanbul,SUV
+BMW,7,94000,1.0,1380000,16,1,Gasoline,Manual,23300,1,Izmir,SUV
+Mercedes,7,103000,1.6,990000,70,0,Gasoline,Automatic,4600,2,Ankara,C
+Mercedes,15,220000,1.3,360000,59,0,Diesel,Manual,0,2,Adana,C
+BMW,15,217000,2.0,770000,75,0,Hybrid,Automatic,34800,3 or more,Istanbul,D
+Ford,4,60000,1.3,1320000,23,1,Gasoline,Manual,2500,1,Istanbul,SUV
+Renault,8,113000,1.4,520000,25,1,Gasoline,Manual,0,3 or more,Istanbul,C
+Honda,5,79000,0.0,940000,20,1,Electric,Automatic,0,1,Istanbul,C
+Volkswagen,1,15000,1.3,1680000,2,1,Diesel,Automatic,0,1,Adana,SUV
+Toyota,2,23000,1.0,800000,29,1,Gasoline,Automatic,0,1,Antalya,B
+Fiat,4,49000,1.5,860000,51,0,Gasoline,Manual,8200,1,Konya,C
+Renault,13,195000,1.3,390000,31,0,Diesel,Manual,0,2,Istanbul,C
+Volkswagen,15,218000,2.0,490000,84,0,Hybrid,Automatic,96100,3 or more,Antalya,D
+Ford,9,127000,1.8,680000,17,1,Hybrid,Automatic,0,2,Bursa,C
+Toyota,5,71000,1.2,1280000,58,0,Gasoline,Automatic,0,1,Bursa,SUV
+Volkswagen,4,51000,1.6,1020000,74,0,Diesel,Manual,0,3 or more,Bursa,C
+Honda,10,140000,1.6,800000,3,1,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Hyundai,14,201000,1.4,500000,68,0,Gasoline,Automatic,13000,2,Izmir,SUV
+Hyundai,5,71000,1.3,1100000,40,0,Gasoline,Automatic,21700,1,Izmir,SUV
+Honda,7,106000,1.2,810000,8,1,Gasoline,Automatic,0,2,Izmir,C
+Renault,14,205000,0.0,300000,11,1,Electric,Automatic,18300,3 or more,Antalya,C
+Mercedes,13,191000,1.5,1060000,56,0,Diesel,Automatic,45400,3 or more,Kocaeli,D
+Renault,5,70000,1.2,580000,9,1,Gasoline,Automatic,0,1,Istanbul,B
+Fiat,14,200000,1.3,360000,23,1,Gasoline,Automatic,2500,2,Antalya,B
+Volkswagen,3,56000,1.8,930000,7,1,Hybrid,Automatic,40000,1,Kocaeli,C
+Renault,4,46000,2.0,740000,57,0,Gasoline,Automatic,86200,1,Istanbul,C
+Hyundai,14,201000,2.0,370000,8,1,Gasoline,Manual,0,3 or more,Izmir,C
+BMW,9,127000,1.4,1170000,14,1,Gasoline,Manual,0,3 or more,Konya,SUV
+Toyota,5,69000,1.2,910000,73,0,Gasoline,Manual,0,1,Istanbul,C
+Renault,2,27000,1.5,790000,1,1,Gasoline,Automatic,0,1,Istanbul,B
+Volkswagen,12,173000,1.2,600000,36,0,Diesel,Manual,6000,2,Istanbul,SUV
+Fiat,5,69000,1.4,460000,7,1,Gasoline,Manual,11300,2,Istanbul,B
+Hyundai,11,161000,1.5,350000,77,0,Gasoline,Manual,26300,2,Konya,B
+Fiat,15,221000,1.5,340000,13,1,Hybrid,Automatic,0,2,Istanbul,B
+Ford,2,34000,1.4,1600000,80,0,Gasoline,Automatic,0,1,Ankara,SUV
+Mercedes,12,179000,1.3,1140000,21,1,Diesel,Automatic,0,3 or more,Ankara,D
+Renault,11,160000,1.5,460000,82,0,Hybrid,Automatic,25900,2,Bursa,C
+Hyundai,11,153000,1.5,380000,17,1,Gasoline,Manual,0,2,Ankara,C
+Renault,8,114000,1.4,580000,54,0,Diesel,Manual,0,3 or more,Izmir,C
+Mercedes,13,191000,1.0,1060000,51,0,Diesel,Manual,0,1,Ankara,D
+Volkswagen,13,184000,1.6,710000,66,0,Gasoline,Automatic,0,2,Istanbul,D
+Volkswagen,12,182000,1.6,720000,60,0,Gasoline,Automatic,51900,3 or more,Antalya,D
+Peugeot,13,194000,1.6,430000,18,1,Diesel,Automatic,5900,2,Konya,C
+Volkswagen,5,75000,1.3,1080000,13,1,Diesel,Manual,9100,3 or more,Istanbul,SUV
+Renault,5,67000,1.3,630000,36,0,Diesel,Automatic,52800,1,Ankara,B
+Volkswagen,7,99000,1.6,990000,44,0,Diesel,Automatic,0,2,Istanbul,SUV
+Fiat,6,89000,1.4,560000,81,0,Gasoline,Automatic,38200,1,Ankara,B
+Hyundai,1,13000,1.8,1390000,1,1,Hybrid,Automatic,0,1,Bursa,SUV
+Toyota,4,55000,2.0,1230000,73,0,Gasoline,Automatic,22900,3 or more,Istanbul,SUV
+Toyota,13,192000,1.5,500000,26,1,Gasoline,Automatic,0,3 or more,Bursa,C
+Toyota,9,126000,1.2,360000,8,1,Diesel,Manual,0,2,Izmir,B
+Peugeot,9,128000,1.0,440000,4,1,Gasoline,Automatic,0,3 or more,Istanbul,B
+Fiat,14,199000,2.0,380000,8,1,Hybrid,Automatic,0,1,Antalya,C
+Renault,1,15000,1.5,770000,42,0,Diesel,Manual,0,1,Izmir,B
+Honda,7,100000,1.2,880000,61,0,Gasoline,Automatic,6400,2,Bursa,C
+Ford,1,16000,0.0,1330000,82,0,Electric,Automatic,0,1,Ankara,C
+Hyundai,6,85000,1.4,740000,26,1,Gasoline,Automatic,0,3 or more,Bursa,C
+BMW,3,38000,1.4,1750000,5,1,Gasoline,Automatic,0,2,Bursa,SUV
+Mercedes,10,142000,1.4,590000,52,0,Gasoline,Automatic,118400,3 or more,Izmir,C
+Mercedes,3,46000,0.0,1250000,24,1,Electric,Automatic,14700,2,Ankara,C
+Hyundai,15,217000,1.5,480000,62,0,Hybrid,Automatic,0,3 or more,Istanbul,SUV
+Volkswagen,12,177000,1.6,440000,6,1,Hybrid,Automatic,24000,3 or more,Antalya,C
+Peugeot,14,196000,1.0,390000,57,0,Gasoline,Automatic,19100,2,Istanbul,C
+Renault,4,60000,1.0,600000,90,0,Diesel,Automatic,13100,2,Istanbul,B
+BMW,12,173000,0.0,1150000,42,0,Electric,Automatic,98900,2,Istanbul,D
+Mercedes,5,66000,1.4,1900000,5,1,Diesel,Automatic,2600,1,Bursa,D
+Hyundai,4,62000,2.0,540000,17,1,Gasoline,Manual,0,1,Bursa,B
+Peugeot,13,189000,1.5,360000,54,0,Gasoline,Automatic,0,3 or more,Kocaeli,B
+BMW,4,57000,1.4,1990000,12,1,Gasoline,Automatic,0,3 or more,Izmir,D
+Hyundai,1,10000,1.6,710000,68,0,Diesel,Manual,0,1,Istanbul,B
+BMW,4,55000,1.6,1720000,37,0,Diesel,Automatic,36100,3 or more,Istanbul,SUV
+Ford,3,49000,1.3,590000,27,1,Diesel,Manual,27600,2,Ankara,B
+Mercedes,15,219000,1.0,800000,25,1,Gasoline,Automatic,0,2,Izmir,SUV
+BMW,8,113000,1.0,1240000,12,1,Gasoline,Automatic,0,3 or more,Bursa,SUV
+Hyundai,15,219000,1.4,350000,5,1,Gasoline,Manual,0,1,Istanbul,B
+Volkswagen,7,105000,1.4,1030000,51,0,Gasoline,Automatic,61700,1,Izmir,SUV
+Hyundai,4,57000,1.4,650000,50,0,Diesel,Automatic,0,1,Istanbul,B
+Hyundai,5,79000,1.4,1220000,23,1,Gasoline,Automatic,0,1,Ankara,SUV
+Peugeot,3,48000,1.6,590000,1,1,Diesel,Manual,0,2,Konya,B
+Fiat,10,147000,1.5,520000,29,1,Gasoline,Automatic,0,3 or more,Istanbul,C
+Mercedes,10,146000,1.8,1150000,13,1,Hybrid,Automatic,40400,1,Bursa,SUV
+Mercedes,10,141000,1.4,990000,81,0,Diesel,Manual,56600,3 or more,Ankara,SUV
+Ford,9,140000,1.6,610000,30,1,Hybrid,Automatic,0,3 or more,Istanbul,C
+Peugeot,1,12000,1.2,1130000,10,1,Gasoline,Automatic,98800,1,Istanbul,C
+Peugeot,1,11000,1.3,1240000,10,1,Gasoline,Automatic,0,1,Bursa,C
+Mercedes,5,70000,1.6,1870000,18,1,Diesel,Automatic,0,1,Istanbul,SUV
+Mercedes,12,171000,1.3,580000,20,1,Diesel,Manual,0,3 or more,Ankara,C
+Renault,7,107000,1.3,760000,21,1,Diesel,Automatic,0,2,Izmir,C
+Ford,5,74000,1.2,700000,15,1,Diesel,Automatic,0,1,Ankara,B
+Ford,1,15000,1.5,1690000,64,0,Gasoline,Automatic,25300,1,Istanbul,SUV
+Fiat,10,149000,1.6,350000,27,1,Gasoline,Manual,47500,2,Ankara,C
+Ford,14,199000,2.0,710000,12,1,Gasoline,Automatic,0,1,Izmir,SUV
+Peugeot,4,66000,1.3,610000,23,1,Gasoline,Manual,0,1,Istanbul,B
+Renault,12,181000,0.0,460000,14,1,Electric,Automatic,0,1,Ankara,C
+Honda,1,19000,1.3,1280000,35,0,Gasoline,Manual,61900,1,Izmir,C
+Toyota,4,63000,1.4,1080000,20,1,Diesel,Automatic,0,1,Izmir,C
+Fiat,7,97000,1.5,350000,22,1,Diesel,Manual,0,2,Bursa,B
+Hyundai,5,72000,1.5,1080000,36,0,Diesel,Automatic,0,2,Antalya,SUV
+Volkswagen,1,17000,1.4,1540000,14,1,Gasoline,Automatic,0,1,Istanbul,SUV
+Mercedes,7,105000,1.4,1070000,29,1,Gasoline,Automatic,0,2,Istanbul,C
+Fiat,5,72000,1.4,590000,45,0,Gasoline,Automatic,0,1,Istanbul,B
+Honda,2,31000,2.0,1580000,58,0,Gasoline,Manual,0,1,Konya,SUV
+BMW,3,50000,1.6,1500000,37,0,Gasoline,Automatic,0,2,Adana,SUV
+BMW,1,17000,1.3,1630000,17,1,Gasoline,Manual,0,1,Istanbul,C
+Ford,8,123000,1.6,470000,73,0,Diesel,Automatic,6600,1,Ankara,B
+Toyota,15,213000,1.6,350000,9,1,Diesel,Automatic,0,3 or more,Istanbul,C
+Mercedes,3,44000,1.5,1300000,3,1,Gasoline,Automatic,0,1,Adana,C
+Honda,5,74000,2.0,760000,82,0,Gasoline,Manual,30500,3 or more,Izmir,C
+Peugeot,10,142000,1.8,660000,15,1,Hybrid,Automatic,0,3 or more,Izmir,C
+Volkswagen,5,72000,1.4,1440000,61,0,Gasoline,Automatic,21100,2,Izmir,D
+Ford,5,68000,1.0,1150000,28,1,Diesel,Automatic,0,1,Izmir,SUV
+Mercedes,13,194000,1.3,820000,9,1,Diesel,Automatic,78300,3 or more,Ankara,SUV
+Volkswagen,2,25000,1.5,1170000,78,0,Diesel,Automatic,4200,2,Istanbul,C
+Ford,1,12000,2.0,1130000,45,0,Gasoline,Manual,0,1,Konya,C
+Fiat,9,129000,1.4,460000,10,1,Diesel,Automatic,95600,2,Adana,C
+Honda,9,130000,1.5,970000,15,1,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+Renault,14,208000,1.4,360000,48,0,Diesel,Automatic,107200,3 or more,Istanbul,C
+BMW,2,31000,1.4,1320000,5,1,Gasoline,Manual,0,1,Ankara,C
+Toyota,11,161000,1.5,800000,68,0,Hybrid,Automatic,0,3 or more,Kocaeli,SUV
+Volkswagen,13,186000,1.3,670000,43,0,Diesel,Manual,0,3 or more,Istanbul,D
+Peugeot,5,80000,2.0,1010000,66,0,Diesel,Automatic,7000,2,Istanbul,C
+BMW,10,140000,1.2,900000,44,0,Gasoline,Automatic,0,3 or more,Istanbul,C
+Ford,1,10000,0.0,1130000,75,0,Electric,Automatic,4800,2,Istanbul,C
+Mercedes,3,39000,1.5,1780000,3,1,Hybrid,Automatic,35300,2,Antalya,D
+Toyota,14,199000,1.5,430000,65,0,Diesel,Automatic,0,2,Konya,C
+Hyundai,3,44000,1.0,780000,56,0,Gasoline,Manual,7900,1,Izmir,C
+BMW,5,69000,1.5,1150000,4,1,Gasoline,Automatic,50200,2,Istanbul,C
+Toyota,6,86000,2.0,1150000,81,0,Hybrid,Automatic,0,2,Istanbul,SUV
+Volkswagen,15,212000,1.5,370000,59,0,Diesel,Automatic,0,2,Bursa,C
+Volkswagen,3,46000,1.4,1420000,17,1,Gasoline,Automatic,14300,2,Konya,SUV
+Ford,15,210000,1.4,370000,47,0,Gasoline,Automatic,0,1,Istanbul,C
+Volkswagen,7,98000,1.4,700000,44,0,Gasoline,Manual,0,2,Adana,C
+Honda,9,132000,1.4,560000,51,0,Gasoline,Manual,50200,2,Kocaeli,C
+Honda,10,147000,1.3,740000,27,1,Gasoline,Automatic,0,3 or more,Bursa,SUV
+Mercedes,1,19000,1.3,2510000,38,0,Diesel,Manual,0,1,Kocaeli,D
+BMW,6,85000,1.0,1020000,87,0,Gasoline,Manual,0,2,Istanbul,C
+Ford,3,41000,1.5,1320000,13,1,Gasoline,Automatic,0,1,Konya,SUV
+Ford,5,73000,1.5,1180000,22,1,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Renault,3,39000,0.0,890000,25,1,Electric,Automatic,0,1,Izmir,C
+Ford,1,16000,1.4,1320000,21,1,Diesel,Automatic,0,2,Istanbul,C
+Fiat,14,202000,1.4,320000,26,1,Gasoline,Automatic,0,3 or more,Ankara,B
+Fiat,3,37000,1.6,970000,29,1,Diesel,Automatic,2500,1,Bursa,C
+Mercedes,9,123000,1.6,1140000,43,0,Hybrid,Automatic,145100,1,Izmir,D
+Toyota,14,202000,2.0,360000,35,0,Hybrid,Automatic,0,2,Kocaeli,B
+Mercedes,2,26000,1.4,1730000,8,1,Gasoline,Manual,0,1,Izmir,SUV
+Hyundai,10,141000,1.6,440000,72,0,Diesel,Automatic,3100,3 or more,Istanbul,B
+Toyota,13,183000,1.2,590000,75,0,Diesel,Manual,0,2,Bursa,SUV
+Peugeot,1,12000,2.0,1210000,25,1,Gasoline,Automatic,0,1,Bursa,C
+Toyota,6,89000,1.3,1000000,27,1,Gasoline,Manual,21500,1,Bursa,SUV
+Peugeot,5,75000,1.5,1330000,14,1,Hybrid,Automatic,0,2,Istanbul,SUV
+Ford,15,218000,2.0,300000,10,1,Gasoline,Manual,20000,3 or more,Istanbul,B
+Peugeot,14,205000,1.5,380000,62,0,Gasoline,Automatic,31700,2,Izmir,C
+BMW,6,93000,1.5,1460000,14,1,Diesel,Automatic,0,3 or more,Ankara,SUV
+Peugeot,10,143000,1.5,860000,44,0,Gasoline,Automatic,2500,3 or more,Izmir,SUV
+Toyota,15,213000,2.0,330000,17,1,Diesel,Automatic,71800,3 or more,Konya,B
+BMW,15,213000,1.2,810000,84,0,Diesel,Manual,28100,2,Istanbul,D
+Ford,4,51000,0.0,1180000,81,0,Electric,Automatic,0,1,Kocaeli,C
+Honda,9,127000,2.0,690000,66,0,Hybrid,Automatic,0,3 or more,Istanbul,C
+Honda,7,103000,1.4,670000,19,1,Gasoline,Manual,0,1,Adana,C
+Honda,4,64000,1.8,1150000,63,0,Hybrid,Automatic,0,1,Istanbul,C
+Peugeot,7,103000,1.0,970000,23,1,Diesel,Automatic,13300,2,Ankara,SUV
+BMW,8,123000,1.3,1260000,68,0,Diesel,Automatic,3700,3 or more,Bursa,SUV
+Mercedes,15,224000,0.0,860000,78,0,Electric,Automatic,0,2,Istanbul,D
+Hyundai,12,175000,1.4,330000,49,0,Diesel,Manual,4200,3 or more,Istanbul,C
+Volkswagen,14,201000,1.6,450000,20,1,Diesel,Manual,0,2,Kocaeli,SUV
+Volkswagen,7,93000,1.6,1160000,70,0,Hybrid,Automatic,39200,3 or more,Adana,D
+Mercedes,9,136000,1.8,1000000,11,1,Hybrid,Automatic,0,3 or more,Ankara,C
+Ford,11,154000,1.3,760000,79,0,Gasoline,Automatic,5400,3 or more,Izmir,SUV
+Peugeot,12,168000,1.6,340000,64,0,Gasoline,Manual,22300,3 or more,Istanbul,B
+Peugeot,5,72000,1.2,550000,39,0,Gasoline,Manual,16400,3 or more,Adana,B
+BMW,1,15000,1.6,2100000,87,0,Diesel,Manual,12000,1,Ankara,SUV
+Toyota,15,219000,2.0,320000,35,0,Gasoline,Manual,0,2,Adana,B
+Ford,8,117000,2.0,920000,13,1,Gasoline,Automatic,0,2,Istanbul,SUV
+Ford,11,158000,1.4,820000,25,1,Gasoline,Automatic,34900,2,Istanbul,SUV
+Renault,3,42000,1.2,860000,13,1,Diesel,Automatic,53800,1,Izmir,C
+Hyundai,6,83000,1.3,690000,90,0,Gasoline,Manual,0,1,Antalya,C
+Honda,15,217000,2.0,370000,5,1,Gasoline,Automatic,0,3 or more,Bursa,C
+Toyota,10,141000,1.3,330000,68,0,Gasoline,Manual,0,3 or more,Istanbul,B
+Ford,2,27000,1.5,1220000,12,1,Hybrid,Automatic,41400,1,Konya,C
+Peugeot,7,102000,1.6,810000,12,1,Hybrid,Automatic,2500,2,Antalya,C
+Honda,14,200000,1.3,360000,22,1,Diesel,Automatic,0,3 or more,Antalya,C
+Fiat,3,40000,1.3,960000,14,1,Gasoline,Automatic,9700,1,Istanbul,C
+Hyundai,15,219000,0.0,330000,49,0,Electric,Automatic,115400,2,Istanbul,C
+Renault,12,166000,1.4,360000,87,0,Gasoline,Manual,0,3 or more,Konya,C
+Volkswagen,11,163000,1.6,760000,24,1,Gasoline,Automatic,0,2,Antalya,SUV
+Hyundai,13,186000,1.4,370000,83,0,Diesel,Automatic,74900,2,Istanbul,B
+Honda,8,116000,1.5,610000,10,1,Diesel,Manual,38800,2,Istanbul,C
+Honda,1,20000,2.0,1300000,77,0,Hybrid,Automatic,4600,1,Istanbul,C
+BMW,8,116000,2.0,1560000,84,0,Gasoline,Manual,0,3 or more,Istanbul,D
+Fiat,3,51000,1.4,680000,15,1,Gasoline,Automatic,0,1,Istanbul,B
+Honda,5,74000,1.6,1240000,55,0,Gasoline,Manual,7100,3 or more,Istanbul,SUV
+Peugeot,13,186000,1.3,350000,7,1,Gasoline,Manual,0,3 or more,Istanbul,C
+Renault,12,176000,2.0,330000,11,1,Gasoline,Automatic,0,2,Izmir,B
+Peugeot,8,110000,1.5,860000,52,0,Gasoline,Automatic,0,3 or more,Antalya,C
+Fiat,9,125000,1.0,670000,8,1,Diesel,Automatic,0,1,Istanbul,C
+BMW,9,135000,1.5,1300000,21,1,Gasoline,Automatic,0,1,Adana,SUV
+Fiat,2,18000,1.0,640000,44,0,Diesel,Manual,0,1,Istanbul,B
+Hyundai,13,190000,1.8,560000,23,1,Hybrid,Automatic,14400,3 or more,Konya,SUV
+Hyundai,8,124000,1.2,830000,14,1,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Renault,1,5000,1.2,730000,2,1,Gasoline,Manual,69700,1,Istanbul,C
+Peugeot,13,194000,1.8,470000,23,1,Hybrid,Automatic,0,2,Bursa,C
+Mercedes,5,75000,1.0,1570000,26,1,Gasoline,Automatic,5600,2,Kocaeli,D
+Renault,7,104000,0.0,700000,74,0,Electric,Automatic,8300,1,Adana,C
+Volkswagen,1,20000,1.3,1920000,10,1,Gasoline,Automatic,125300,1,Istanbul,D
+Ford,13,191000,1.4,350000,31,0,Gasoline,Automatic,28900,3 or more,Ankara,B
+BMW,13,184000,1.6,600000,44,0,Gasoline,Manual,0,3 or more,Istanbul,C
+Volkswagen,6,83000,1.0,1160000,15,1,Gasoline,Automatic,16200,1,Istanbul,D
+Fiat,7,98000,1.3,610000,26,1,Diesel,Manual,0,2,Istanbul,C
+Ford,6,90000,1.5,970000,49,0,Gasoline,Automatic,0,2,Istanbul,C
+Honda,9,129000,1.3,870000,82,0,Diesel,Automatic,38400,3 or more,Istanbul,SUV
+BMW,1,13000,0.0,2310000,24,1,Electric,Automatic,0,1,Antalya,SUV
+Fiat,7,99000,1.6,340000,10,1,Diesel,Manual,135100,3 or more,Izmir,B
+Hyundai,8,111000,1.4,1020000,14,1,Gasoline,Automatic,0,1,Istanbul,SUV
+Mercedes,15,219000,1.6,810000,19,1,Hybrid,Automatic,0,2,Konya,SUV
+Peugeot,7,96000,1.5,800000,85,0,Diesel,Automatic,0,2,Ankara,C
+Hyundai,3,42000,1.2,580000,77,0,Gasoline,Manual,0,1,Antalya,B
+Honda,4,58000,1.6,1150000,7,1,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Renault,7,89000,1.6,660000,82,0,Hybrid,Automatic,59500,2,Antalya,C
+Honda,8,115000,1.8,930000,7,1,Hybrid,Automatic,8900,3 or more,Istanbul,SUV
+Renault,10,133000,1.4,350000,24,1,Gasoline,Manual,0,2,Istanbul,B
+Toyota,7,106000,1.5,1060000,84,0,Diesel,Manual,9800,3 or more,Istanbul,SUV
+Hyundai,1,18000,1.5,1140000,25,1,Hybrid,Automatic,2500,1,Istanbul,C
+BMW,13,184000,1.3,860000,60,0,Gasoline,Manual,0,2,Bursa,SUV
+Hyundai,14,208000,0.0,600000,84,0,Electric,Automatic,0,3 or more,Izmir,SUV
+Honda,2,25000,0.0,1030000,14,1,Electric,Automatic,16300,1,Istanbul,C
+Hyundai,3,48000,1.5,1320000,62,0,Diesel,Automatic,51600,2,Ankara,SUV
+Mercedes,3,48000,1.4,2140000,62,0,Gasoline,Automatic,52900,2,Istanbul,D
+Volkswagen,6,89000,1.0,1240000,24,1,Gasoline,Automatic,0,2,Izmir,SUV
+Hyundai,9,125000,1.0,880000,54,0,Gasoline,Automatic,24500,1,Izmir,SUV
+Fiat,7,98000,1.4,530000,12,1,Diesel,Manual,57400,1,Istanbul,C
+Hyundai,5,79000,2.0,510000,76,0,Diesel,Manual,0,3 or more,Izmir,B
+Hyundai,12,170000,0.0,350000,60,0,Electric,Automatic,0,3 or more,Istanbul,B
+Renault,11,154000,1.4,390000,46,0,Gasoline,Manual,0,3 or more,Antalya,B
+Mercedes,3,43000,0.0,1720000,9,1,Electric,Automatic,0,1,Izmir,SUV
+BMW,15,220000,1.3,870000,88,0,Diesel,Automatic,0,3 or more,Bursa,D
+BMW,15,216000,1.5,500000,3,1,Hybrid,Automatic,0,3 or more,Kocaeli,C
+Peugeot,9,128000,1.6,490000,35,0,Gasoline,Automatic,0,2,Bursa,B
+Renault,4,55000,2.0,650000,30,1,Diesel,Manual,0,2,Kocaeli,C
+Mercedes,1,17000,1.2,2110000,3,1,Diesel,Manual,0,1,Konya,SUV
+Fiat,6,83000,1.4,560000,51,0,Gasoline,Automatic,21900,2,Ankara,B
+Hyundai,14,210000,1.5,350000,30,1,Gasoline,Manual,0,3 or more,Istanbul,B
+Ford,3,54000,1.5,920000,18,1,Diesel,Manual,66600,1,Ankara,C
+Hyundai,8,116000,1.6,600000,9,1,Hybrid,Automatic,0,2,Antalya,C
+Ford,14,205000,1.3,360000,27,1,Diesel,Automatic,0,2,Istanbul,B
+Ford,14,192000,1.4,390000,75,0,Diesel,Automatic,3300,2,Konya,C
+Hyundai,3,38000,1.4,1230000,39,0,Gasoline,Manual,0,1,Istanbul,SUV
+Hyundai,14,211000,1.6,360000,57,0,Gasoline,Automatic,0,3 or more,Kocaeli,C
+Mercedes,13,187000,1.6,700000,8,1,Gasoline,Automatic,0,3 or more,Izmir,C
+Peugeot,12,178000,1.4,470000,47,0,Gasoline,Manual,0,3 or more,Izmir,C
+Honda,2,33000,0.0,1100000,30,1,Electric,Automatic,0,1,Izmir,C
+Peugeot,7,103000,1.0,820000,3,1,Gasoline,Automatic,0,2,Istanbul,C
+Hyundai,10,140000,1.5,540000,72,0,Diesel,Automatic,4000,3 or more,Adana,C
+Honda,2,27000,1.0,1050000,22,1,Gasoline,Automatic,94500,1,Antalya,C
+Mercedes,7,100000,1.8,1090000,7,1,Hybrid,Automatic,11000,3 or more,Istanbul,C
+Mercedes,12,174000,2.0,700000,3,1,Diesel,Automatic,0,3 or more,Kocaeli,C
+Mercedes,10,140000,0.0,1330000,29,1,Electric,Automatic,0,3 or more,Istanbul,D
+Honda,9,133000,0.0,1110000,32,0,Electric,Automatic,4700,3 or more,Istanbul,SUV
+Hyundai,5,71000,1.5,860000,77,0,Hybrid,Automatic,10000,2,Ankara,C
+Hyundai,15,219000,1.4,520000,29,1,Gasoline,Automatic,0,2,Izmir,SUV
+Peugeot,7,106000,1.5,500000,13,1,Gasoline,Automatic,0,3 or more,Ankara,B
+Fiat,5,72000,1.6,640000,4,1,Diesel,Automatic,0,1,Kocaeli,B
+Renault,5,73000,1.6,630000,89,0,Diesel,Automatic,0,2,Ankara,B
+Fiat,14,205000,1.2,340000,78,0,Gasoline,Automatic,58000,3 or more,Izmir,B
+Mercedes,1,18000,2.0,2230000,8,1,Diesel,Manual,0,1,Ankara,D
+Mercedes,3,43000,2.0,1240000,20,1,Hybrid,Automatic,0,1,Ankara,C
+Mercedes,6,92000,1.4,1160000,88,0,Diesel,Automatic,20000,2,Bursa,C
+BMW,8,121000,1.4,1490000,27,1,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Peugeot,2,33000,1.5,1390000,13,1,Diesel,Manual,8400,1,Istanbul,SUV
+Honda,3,44000,1.2,1400000,27,1,Gasoline,Automatic,0,1,Adana,SUV
+Mercedes,13,186000,1.4,970000,3,1,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Peugeot,13,188000,1.6,440000,29,1,Hybrid,Automatic,0,1,Konya,C
+Ford,11,159000,1.4,350000,37,0,Gasoline,Manual,0,3 or more,Bursa,B
+Hyundai,4,59000,1.5,750000,14,1,Gasoline,Automatic,88900,2,Izmir,C
+Honda,14,202000,1.4,560000,84,0,Gasoline,Automatic,0,2,Antalya,SUV
+Volkswagen,12,171000,0.0,610000,35,0,Electric,Automatic,75300,3 or more,Ankara,SUV
+Honda,13,186000,1.5,470000,6,1,Diesel,Automatic,0,3 or more,Izmir,C
+BMW,3,42000,1.4,1430000,29,1,Diesel,Manual,250000,1,Bursa,SUV
+Honda,2,33000,1.2,1470000,4,1,Gasoline,Manual,0,1,Antalya,SUV
+Peugeot,5,73000,1.4,1340000,68,0,Diesel,Automatic,0,1,Istanbul,SUV
+Honda,2,29000,1.5,1240000,19,1,Diesel,Manual,0,1,Bursa,SUV
+Toyota,1,14000,1.5,1210000,76,0,Hybrid,Automatic,35300,1,Istanbul,C
+Toyota,2,29000,1.3,740000,27,1,Gasoline,Automatic,18200,1,Konya,B
+Hyundai,11,159000,1.6,350000,3,1,Gasoline,Automatic,2500,2,Izmir,B
+Hyundai,1,20000,1.5,1130000,16,1,Diesel,Automatic,6600,1,Bursa,C
+BMW,10,144000,1.5,1190000,34,0,Gasoline,Manual,0,3 or more,Ankara,D
+Volkswagen,7,98000,2.0,960000,30,1,Gasoline,Manual,70700,3 or more,Istanbul,D
+BMW,3,36000,1.5,1500000,5,1,Gasoline,Automatic,23700,1,Izmir,C
+Ford,15,222000,1.6,560000,11,1,Hybrid,Automatic,0,2,Antalya,SUV
+BMW,3,36000,0.0,2100000,21,1,Electric,Automatic,4100,1,Izmir,D
+Ford,4,49000,1.5,1210000,14,1,Gasoline,Automatic,47500,1,Konya,SUV
+Mercedes,10,151000,1.3,1280000,14,1,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Mercedes,5,69000,1.5,1840000,17,1,Diesel,Automatic,0,2,Izmir,D
+Volkswagen,13,194000,1.4,520000,18,1,Diesel,Manual,0,2,Ankara,D
+Renault,15,219000,2.0,340000,4,1,Gasoline,Automatic,0,2,Izmir,B
+Peugeot,12,174000,1.5,390000,51,0,Gasoline,Automatic,0,3 or more,Istanbul,B
+Ford,13,190000,1.4,680000,11,1,Diesel,Automatic,0,1,Istanbul,SUV
+Fiat,9,133000,1.2,430000,46,0,Gasoline,Automatic,2500,3 or more,Adana,B
+Fiat,10,147000,2.0,580000,46,0,Gasoline,Automatic,0,3 or more,Antalya,C
+Renault,3,55000,2.0,670000,83,0,Gasoline,Automatic,55100,3 or more,Kocaeli,B
+BMW,11,161000,1.0,810000,3,1,Diesel,Automatic,0,3 or more,Ankara,C
+Hyundai,1,16000,1.4,790000,20,1,Diesel,Automatic,0,1,Izmir,B
+Honda,15,214000,1.5,540000,41,0,Gasoline,Automatic,0,2,Bursa,SUV
+Peugeot,1,22000,2.0,1080000,29,1,Gasoline,Automatic,20900,2,Bursa,C
+Volkswagen,7,101000,1.4,1220000,82,0,Diesel,Automatic,0,3 or more,Istanbul,D
+Peugeot,9,137000,1.5,420000,46,0,Gasoline,Automatic,0,3 or more,Istanbul,B
+Honda,4,61000,1.6,910000,7,1,Diesel,Automatic,9000,1,Izmir,C
+Peugeot,15,223000,2.0,330000,29,1,Gasoline,Automatic,2500,2,Istanbul,C
+Mercedes,6,87000,1.0,1010000,12,1,Diesel,Automatic,135500,1,Konya,C
+Honda,14,195000,1.5,520000,35,0,Diesel,Automatic,0,3 or more,Istanbul,C
+Peugeot,3,50000,1.0,750000,9,1,Diesel,Automatic,62000,2,Bursa,B
+Peugeot,9,131000,1.3,960000,83,0,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+BMW,4,49000,1.5,1650000,2,1,Hybrid,Automatic,0,2,Adana,SUV
+Honda,7,100000,1.8,690000,1,1,Hybrid,Automatic,0,1,Istanbul,C
+Mercedes,3,42000,1.4,1650000,20,1,Diesel,Manual,0,1,Izmir,SUV
+Mercedes,14,204000,1.5,600000,87,0,Diesel,Automatic,2500,1,Ankara,C
+Ford,15,216000,1.4,300000,84,0,Gasoline,Automatic,0,3 or more,Istanbul,B
+Hyundai,2,31000,1.6,1520000,80,0,Gasoline,Automatic,35600,1,Izmir,SUV
+Hyundai,4,55000,1.4,540000,13,1,Diesel,Manual,0,3 or more,Istanbul,B
+BMW,2,36000,1.6,2410000,39,0,Diesel,Automatic,0,1,Bursa,D
+Peugeot,7,95000,1.5,780000,3,1,Gasoline,Automatic,0,3 or more,Konya,C
+Honda,13,183000,1.6,500000,42,0,Diesel,Automatic,0,2,Ankara,C
+Ford,9,128000,0.0,720000,47,0,Electric,Automatic,2500,3 or more,Istanbul,C
+BMW,15,225000,1.5,960000,66,0,Gasoline,Automatic,0,1,Izmir,SUV
+Hyundai,8,109000,1.0,690000,32,0,Gasoline,Automatic,36100,3 or more,Istanbul,C
+Honda,7,99000,1.3,960000,35,0,Gasoline,Automatic,88400,3 or more,Istanbul,SUV
+BMW,7,98000,1.4,1430000,77,0,Gasoline,Manual,0,1,Adana,D
+Renault,13,190000,1.5,320000,25,1,Diesel,Automatic,17800,3 or more,Adana,B
+Hyundai,5,69000,1.5,480000,49,0,Gasoline,Manual,0,2,Istanbul,B
+Peugeot,2,25000,2.0,870000,24,1,Gasoline,Automatic,0,2,Istanbul,B
+Peugeot,7,105000,0.0,1240000,37,0,Electric,Automatic,0,3 or more,Kocaeli,SUV
+Renault,10,146000,1.6,370000,6,1,Diesel,Automatic,0,3 or more,Istanbul,B
+Fiat,6,85000,1.2,540000,9,1,Diesel,Automatic,0,2,Istanbul,B
+Toyota,3,46000,1.2,1370000,89,0,Gasoline,Manual,9600,1,Istanbul,SUV
+Hyundai,1,8000,1.4,710000,10,1,Gasoline,Automatic,27500,1,Ankara,B
+Honda,4,53000,1.5,1020000,10,1,Hybrid,Automatic,12600,2,Istanbul,C
+Renault,15,228000,1.3,330000,72,0,Gasoline,Automatic,11000,3 or more,Istanbul,B
+Mercedes,11,158000,1.5,680000,54,0,Diesel,Manual,0,3 or more,Ankara,C
+Renault,3,47000,1.0,930000,17,1,Gasoline,Automatic,0,1,Bursa,C
+Honda,11,156000,1.0,780000,15,1,Diesel,Automatic,0,1,Istanbul,SUV
+Fiat,10,146000,1.3,440000,10,1,Gasoline,Automatic,0,2,Izmir,C
+Mercedes,14,198000,1.8,880000,4,1,Hybrid,Automatic,0,1,Izmir,SUV
+Mercedes,3,38000,1.0,1940000,7,1,Gasoline,Manual,2500,1,Ankara,SUV
+Volkswagen,4,58000,1.5,970000,7,1,Gasoline,Automatic,0,1,Istanbul,C
+BMW,10,142000,1.3,950000,32,0,Diesel,Automatic,0,2,Ankara,C
+Fiat,11,155000,1.6,480000,36,0,Diesel,Automatic,33800,2,Ankara,C
+BMW,14,201000,1.5,650000,84,0,Diesel,Manual,45400,3 or more,Konya,SUV
+Honda,14,209000,1.8,370000,4,1,Hybrid,Automatic,0,1,Antalya,C
+Ford,4,54000,1.2,750000,57,0,Diesel,Automatic,23900,2,Istanbul,B
+Volkswagen,15,210000,1.0,380000,63,0,Gasoline,Manual,0,2,Izmir,C
+Hyundai,8,111000,1.3,430000,8,1,Gasoline,Automatic,17400,2,Istanbul,B
+Fiat,6,87000,1.0,780000,22,1,Gasoline,Automatic,0,3 or more,Ankara,C
+Mercedes,4,49000,1.6,1220000,29,1,Gasoline,Manual,0,2,Istanbul,C
+Renault,8,117000,1.4,690000,28,1,Gasoline,Automatic,0,3 or more,Kocaeli,C
+BMW,4,57000,0.0,1290000,4,1,Electric,Automatic,0,1,Ankara,C
+Volkswagen,15,216000,1.5,380000,6,1,Gasoline,Automatic,92200,3 or more,Izmir,C
+Volkswagen,9,129000,1.0,610000,31,0,Gasoline,Manual,0,3 or more,Kocaeli,C
+Volkswagen,9,135000,1.3,610000,6,1,Diesel,Manual,0,2,Bursa,C
+Volkswagen,13,187000,1.2,630000,28,1,Gasoline,Automatic,0,3 or more,Konya,SUV
+BMW,2,33000,1.4,1280000,16,1,Gasoline,Automatic,75400,1,Istanbul,C
+Hyundai,5,68000,1.5,740000,43,0,Gasoline,Automatic,0,2,Izmir,C
+Ford,7,107000,1.5,900000,3,1,Diesel,Automatic,97200,3 or more,Izmir,SUV
+Peugeot,7,101000,1.4,490000,29,1,Gasoline,Automatic,0,1,Ankara,B
+Toyota,13,190000,1.6,400000,80,0,Gasoline,Manual,2500,2,Bursa,C
+Ford,3,40000,0.0,1340000,16,1,Electric,Automatic,0,1,Izmir,SUV
+Fiat,2,21000,1.6,710000,89,0,Gasoline,Manual,0,2,Bursa,B
+Fiat,4,61000,1.5,500000,62,0,Gasoline,Manual,15700,1,Istanbul,B
+Honda,10,153000,2.0,630000,12,1,Diesel,Manual,0,3 or more,Kocaeli,SUV
+BMW,12,177000,1.4,840000,5,1,Diesel,Automatic,0,2,Kocaeli,SUV
+Volkswagen,13,197000,2.0,450000,27,1,Diesel,Automatic,0,3 or more,Kocaeli,C
+Fiat,7,100000,1.0,500000,57,0,Diesel,Automatic,0,1,Bursa,B
+Renault,10,142000,0.0,390000,23,1,Electric,Automatic,96800,3 or more,Istanbul,C
+Peugeot,15,215000,1.4,310000,19,1,Diesel,Automatic,20400,2,Istanbul,B
+Honda,11,148000,2.0,650000,88,0,Diesel,Manual,0,3 or more,Istanbul,SUV
+Ford,14,198000,1.5,470000,42,0,Hybrid,Automatic,0,2,Izmir,C
+Renault,6,94000,1.5,420000,41,0,Diesel,Manual,0,1,Ankara,B
+Ford,10,143000,1.6,620000,4,1,Diesel,Automatic,0,3 or more,Kocaeli,C
+Toyota,12,166000,1.5,370000,39,0,Gasoline,Manual,36300,3 or more,Istanbul,C
+Peugeot,3,44000,1.3,1190000,20,1,Gasoline,Automatic,0,2,Kocaeli,C
+Honda,13,185000,1.5,630000,23,1,Gasoline,Automatic,4100,2,Istanbul,SUV
+Fiat,14,203000,1.5,360000,56,0,Diesel,Manual,0,2,Konya,C
+Renault,12,170000,1.5,380000,40,0,Diesel,Manual,0,3 or more,Adana,C
+Peugeot,1,15000,1.4,790000,22,1,Diesel,Automatic,0,1,Ankara,B
+Toyota,2,27000,1.5,1120000,22,1,Gasoline,Automatic,32000,2,Ankara,C
+Volkswagen,8,116000,1.5,1010000,41,0,Gasoline,Automatic,3000,2,Istanbul,SUV
+Mercedes,12,178000,1.5,1040000,2,1,Diesel,Automatic,43000,3 or more,Istanbul,SUV
+Volkswagen,1,13000,1.5,1080000,9,1,Diesel,Manual,0,1,Izmir,C
+Renault,6,89000,1.6,510000,30,1,Diesel,Automatic,0,3 or more,Ankara,B
+Volkswagen,3,42000,0.0,1600000,8,1,Electric,Automatic,0,2,Konya,D
+Hyundai,7,106000,1.0,580000,34,0,Diesel,Manual,3800,2,Istanbul,C
+Volkswagen,11,164000,1.3,950000,31,0,Diesel,Automatic,0,2,Istanbul,D
+Ford,3,44000,0.0,780000,37,0,Electric,Automatic,15000,1,Antalya,B
+Toyota,2,29000,1.3,1460000,30,1,Diesel,Automatic,49400,1,Istanbul,SUV
+Volkswagen,15,217000,2.0,480000,10,1,Diesel,Manual,0,3 or more,Bursa,D
+Fiat,11,154000,1.3,440000,84,0,Gasoline,Manual,0,3 or more,Kocaeli,C
+Volkswagen,10,152000,1.3,700000,22,1,Gasoline,Manual,0,3 or more,Ankara,SUV
+Ford,15,223000,1.5,380000,61,0,Diesel,Automatic,45600,3 or more,Konya,B
+Peugeot,4,59000,1.3,800000,39,0,Diesel,Automatic,12000,2,Ankara,B
+Mercedes,11,160000,0.0,1240000,10,1,Electric,Automatic,0,2,Istanbul,D
+Peugeot,8,110000,1.6,510000,11,1,Gasoline,Automatic,0,3 or more,Kocaeli,B
+BMW,4,60000,1.3,1420000,76,0,Gasoline,Automatic,26000,3 or more,Istanbul,C
+Mercedes,14,200000,1.6,890000,74,0,Gasoline,Automatic,0,3 or more,Antalya,SUV
+Fiat,4,65000,0.0,550000,7,1,Electric,Automatic,12600,2,Kocaeli,B
+Mercedes,9,130000,1.2,1080000,50,0,Gasoline,Manual,0,3 or more,Ankara,SUV
+Volkswagen,4,64000,1.3,760000,3,1,Gasoline,Manual,0,3 or more,Izmir,C
+Ford,1,17000,1.5,1250000,61,0,Diesel,Automatic,4000,1,Istanbul,C
+Peugeot,6,88000,2.0,1270000,10,1,Gasoline,Automatic,0,2,Bursa,SUV
+Ford,4,59000,1.4,880000,5,1,Gasoline,Manual,0,1,Konya,C
+Renault,8,110000,2.0,650000,76,0,Hybrid,Automatic,0,3 or more,Bursa,C
+Mercedes,3,41000,1.3,1340000,16,1,Gasoline,Automatic,0,1,Izmir,C
+Honda,6,83000,1.4,750000,57,0,Diesel,Automatic,106100,2,Ankara,C
+Renault,8,118000,1.6,460000,27,1,Diesel,Automatic,115800,3 or more,Izmir,C
+Hyundai,12,174000,1.4,310000,9,1,Gasoline,Manual,14300,1,Bursa,B
+Fiat,15,214000,1.3,370000,12,1,Gasoline,Automatic,69600,2,Istanbul,B
+Toyota,15,224000,1.6,340000,25,1,Gasoline,Automatic,6400,3 or more,Ankara,B
+Peugeot,12,171000,1.6,500000,8,1,Gasoline,Automatic,0,3 or more,Ankara,C
+Honda,4,63000,1.6,740000,2,1,Gasoline,Automatic,25900,2,Konya,C
+Hyundai,6,92000,1.6,1140000,46,0,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Hyundai,4,55000,1.5,650000,41,0,Hybrid,Automatic,0,2,Izmir,B
+Toyota,2,34000,1.6,780000,1,1,Gasoline,Automatic,0,1,Istanbul,B
+Peugeot,3,51000,2.0,790000,78,0,Gasoline,Automatic,0,1,Antalya,B
+BMW,3,43000,1.4,1490000,26,1,Gasoline,Automatic,0,2,Antalya,C
+Volkswagen,6,93000,1.4,1280000,17,1,Diesel,Automatic,0,3 or more,Konya,D
+Honda,15,223000,1.8,460000,80,0,Hybrid,Automatic,0,1,Adana,C
+Peugeot,5,70000,1.5,1320000,75,0,Gasoline,Automatic,0,1,Bursa,SUV
+Ford,5,79000,1.4,740000,33,0,Gasoline,Manual,67800,2,Istanbul,C
+BMW,15,220000,1.4,780000,6,1,Gasoline,Automatic,0,2,Ankara,SUV
+Peugeot,3,44000,1.0,1140000,23,1,Diesel,Automatic,11500,1,Istanbul,C
+Peugeot,2,26000,1.4,1150000,8,1,Diesel,Automatic,0,2,Istanbul,C
+Fiat,10,144000,1.0,370000,84,0,Diesel,Manual,0,1,Istanbul,B
+Mercedes,2,25000,1.0,1410000,68,0,Diesel,Manual,2500,1,Bursa,C
+Peugeot,7,106000,2.0,910000,60,0,Gasoline,Manual,0,2,Izmir,SUV
+Toyota,1,15000,2.0,880000,6,1,Diesel,Automatic,11700,1,Adana,B
+BMW,8,116000,1.0,1060000,15,1,Diesel,Automatic,0,1,Adana,C
+Renault,4,56000,1.5,620000,78,0,Gasoline,Automatic,29800,3 or more,Ankara,B
+BMW,14,208000,1.8,770000,17,1,Hybrid,Automatic,37900,3 or more,Izmir,SUV
+Volkswagen,13,194000,2.0,310000,42,0,Gasoline,Manual,2900,3 or more,Istanbul,C
+Honda,14,194000,0.0,400000,78,0,Electric,Automatic,6200,3 or more,Adana,C
+BMW,10,144000,1.5,1060000,28,1,Diesel,Manual,0,2,Ankara,SUV
+Honda,2,29000,1.0,1230000,16,1,Diesel,Automatic,0,1,Antalya,C
+Peugeot,5,78000,1.6,660000,7,1,Hybrid,Automatic,22300,3 or more,Izmir,B
+Hyundai,5,79000,1.5,1140000,19,1,Diesel,Automatic,0,2,Kocaeli,SUV
+Renault,6,89000,1.5,660000,40,0,Gasoline,Manual,0,3 or more,Istanbul,C
+Honda,9,136000,1.2,850000,82,0,Gasoline,Manual,0,3 or more,Izmir,SUV
+Volkswagen,12,176000,0.0,550000,73,0,Electric,Automatic,0,2,Bursa,C
+Toyota,7,92000,0.0,460000,4,1,Electric,Automatic,55800,2,Ankara,B
+Honda,6,88000,1.3,720000,38,0,Diesel,Manual,0,2,Izmir,C
+Volkswagen,5,73000,1.6,800000,48,0,Hybrid,Automatic,23100,1,Izmir,C
+Ford,13,190000,1.3,770000,71,0,Diesel,Automatic,29600,1,Istanbul,SUV
+BMW,8,116000,1.4,1460000,17,1,Gasoline,Automatic,0,3 or more,Ankara,D
+Honda,9,138000,0.0,760000,63,0,Electric,Automatic,15300,3 or more,Antalya,C
+Renault,13,186000,1.5,340000,50,0,Gasoline,Automatic,3800,3 or more,Antalya,B
+Peugeot,1,17000,1.5,1110000,59,0,Gasoline,Automatic,95000,1,Ankara,C
+BMW,9,132000,1.0,1470000,50,0,Gasoline,Automatic,45900,3 or more,Istanbul,D
+Mercedes,2,30000,1.2,2050000,29,1,Gasoline,Manual,0,1,Istanbul,SUV
+Fiat,4,70000,1.3,580000,87,0,Gasoline,Automatic,8800,3 or more,Istanbul,B
+Volkswagen,4,66000,1.5,1020000,62,0,Hybrid,Automatic,4200,3 or more,Adana,C
+Volkswagen,1,15000,1.4,1710000,12,1,Gasoline,Automatic,0,1,Bursa,SUV
+Hyundai,10,143000,0.0,370000,6,1,Electric,Automatic,0,3 or more,Kocaeli,B
+Renault,7,91000,0.0,560000,32,0,Electric,Automatic,0,2,Ankara,B
+Renault,9,128000,1.3,570000,54,0,Gasoline,Manual,2500,2,Istanbul,C
+Toyota,4,53000,1.2,1290000,47,0,Gasoline,Automatic,29300,1,Izmir,SUV
+Renault,7,108000,2.0,600000,7,1,Hybrid,Automatic,5400,3 or more,Bursa,C
+Hyundai,2,22000,1.4,1490000,41,0,Gasoline,Automatic,5100,1,Izmir,SUV
+BMW,11,168000,1.6,1340000,11,1,Diesel,Automatic,0,3 or more,Izmir,D
+Honda,14,194000,1.4,370000,88,0,Gasoline,Automatic,60000,1,Izmir,C
+Hyundai,2,25000,1.5,1030000,80,0,Gasoline,Automatic,24200,1,Adana,C
+Renault,7,93000,1.4,520000,14,1,Diesel,Automatic,0,2,Ankara,B
+Hyundai,9,128000,1.4,370000,27,1,Gasoline,Automatic,0,2,Ankara,B
+Mercedes,8,122000,1.6,900000,43,0,Gasoline,Automatic,59600,3 or more,Ankara,C
+Toyota,10,148000,1.6,720000,19,1,Diesel,Automatic,24200,3 or more,Bursa,SUV
+Honda,11,156000,1.6,580000,24,1,Diesel,Automatic,0,3 or more,Bursa,C
+Fiat,5,69000,1.5,560000,30,1,Gasoline,Automatic,0,2,Ankara,B
+Fiat,3,40000,1.5,700000,26,1,Diesel,Automatic,0,1,Antalya,B
+Toyota,6,87000,1.2,850000,5,1,Gasoline,Manual,0,1,Istanbul,C
+Honda,11,163000,1.4,480000,10,1,Gasoline,Automatic,49200,2,Istanbul,C
+Volkswagen,3,41000,1.3,1190000,52,0,Diesel,Automatic,53600,2,Istanbul,C
+Toyota,8,121000,1.6,1060000,28,1,Gasoline,Automatic,0,3 or more,Ankara,SUV
+Mercedes,11,157000,2.0,1160000,4,1,Gasoline,Automatic,0,2,Istanbul,D
+BMW,8,115000,1.0,1140000,76,0,Gasoline,Automatic,192300,2,Kocaeli,SUV
+Fiat,8,120000,0.0,610000,53,0,Electric,Automatic,60800,3 or more,Istanbul,C
+BMW,6,84000,1.4,1540000,55,0,Gasoline,Automatic,0,2,Ankara,SUV
+Honda,3,46000,1.4,1280000,45,0,Gasoline,Automatic,0,1,Istanbul,SUV
+Mercedes,14,203000,1.3,540000,33,0,Gasoline,Manual,0,3 or more,Adana,C
+Fiat,2,25000,1.5,850000,66,0,Hybrid,Automatic,2500,2,Istanbul,C
+Ford,15,226000,1.6,590000,88,0,Diesel,Automatic,7100,3 or more,Ankara,SUV
+Mercedes,2,28000,1.4,2060000,80,0,Gasoline,Automatic,27300,2,Ankara,D
+Honda,14,209000,1.2,500000,90,0,Diesel,Automatic,54500,3 or more,Ankara,SUV
+Toyota,4,59000,1.5,530000,1,1,Diesel,Automatic,55100,2,Istanbul,B
+Volkswagen,2,19000,1.0,1580000,46,0,Diesel,Automatic,27300,1,Izmir,SUV
+Volkswagen,8,111000,2.0,1080000,34,0,Hybrid,Automatic,53100,3 or more,Istanbul,D
+Toyota,3,43000,1.5,1340000,16,1,Gasoline,Automatic,0,1,Bursa,SUV
+Volkswagen,6,90000,1.5,860000,7,1,Gasoline,Manual,0,2,Adana,C
+Honda,5,75000,1.5,1200000,25,1,Gasoline,Manual,0,2,Ankara,SUV
+Renault,9,136000,1.5,330000,13,1,Gasoline,Automatic,105300,2,Izmir,B
+Honda,13,186000,2.0,440000,29,1,Diesel,Automatic,0,2,Ankara,C
+Volkswagen,7,101000,1.0,710000,21,1,Gasoline,Automatic,5600,1,Kocaeli,C
+Toyota,12,170000,0.0,810000,48,0,Electric,Automatic,0,2,Istanbul,SUV
+Honda,14,202000,1.2,390000,83,0,Gasoline,Automatic,6900,1,Ankara,C
+Peugeot,13,192000,1.6,720000,89,0,Diesel,Automatic,0,3 or more,Istanbul,SUV
+Ford,13,188000,1.4,650000,70,0,Gasoline,Automatic,42000,3 or more,Antalya,SUV
+Honda,9,132000,0.0,1000000,26,1,Electric,Automatic,21900,3 or more,Istanbul,SUV
+Honda,7,101000,1.5,1120000,45,0,Gasoline,Automatic,0,1,Adana,SUV
+Honda,4,52000,1.3,1210000,7,1,Gasoline,Automatic,0,3 or more,Istanbul,SUV
+Hyundai,12,176000,1.2,380000,28,1,Gasoline,Automatic,18000,1,Bursa,B
+Mercedes,4,60000,1.5,1200000,47,0,Diesel,Manual,101900,1,Istanbul,C
+Volkswagen,14,199000,1.5,420000,13,1,Gasoline,Automatic,0,2,Antalya,C
+Fiat,12,174000,0.0,490000,29,1,Electric,Automatic,10500,2,Istanbul,C
+Fiat,1,18000,1.4,800000,21,1,Gasoline,Automatic,19600,1,Antalya,B
+Mercedes,11,156000,1.8,1000000,3,1,Hybrid,Automatic,4800,2,Ankara,SUV
+Volkswagen,2,31000,1.5,1220000,13,1,Gasoline,Manual,30300,1,Istanbul,SUV
+Ford,1,14000,1.2,1190000,43,0,Diesel,Automatic,9100,1,Izmir,C
+Fiat,7,103000,1.2,660000,8,1,Gasoline,Automatic,0,2,Istanbul,C
+Ford,9,137000,1.6,800000,38,0,Diesel,Manual,0,3 or more,Istanbul,SUV
+Fiat,8,117000,1.4,480000,44,0,Gasoline,Automatic,0,3 or more,Bursa,B
+Ford,15,222000,0.0,360000,51,0,Electric,Automatic,76300,2,Ankara,C
+Volkswagen,7,106000,1.3,630000,24,1,Diesel,Manual,0,2,Antalya,C
+Toyota,10,136000,1.6,780000,63,0,Diesel,Automatic,99200,2,Izmir,SUV
+Ford,2,33000,1.5,840000,13,1,Diesel,Automatic,0,2,Ankara,B
+Ford,5,72000,1.0,840000,62,0,Gasoline,Manual,0,2,Adana,C
+Mercedes,9,132000,1.3,1210000,88,0,Gasoline,Manual,0,3 or more,Bursa,SUV
+Honda,10,143000,1.5,610000,72,0,Gasoline,Automatic,3900,3 or more,Izmir,C
+Ford,3,40000,1.4,1160000,16,1,Diesel,Manual,0,2,Izmir,SUV
+Peugeot,5,74000,2.0,550000,4,1,Gasoline,Manual,0,1,Ankara,B
+Hyundai,9,124000,1.0,330000,16,1,Gasoline,Automatic,27100,1,Bursa,B
+Renault,8,115000,1.5,390000,41,0,Gasoline,Manual,0,3 or more,Istanbul,B
+Toyota,11,163000,1.4,720000,64,0,Gasoline,Automatic,45300,3 or more,Izmir,SUV
+Mercedes,15,226000,2.0,870000,14,1,Hybrid,Automatic,0,3 or more,Ankara,D
+Renault,5,75000,1.2,430000,51,0,Gasoline,Manual,39300,1,Antalya,B
+Ford,11,166000,1.4,860000,86,0,Gasoline,Automatic,0,1,Bursa,SUV
+Honda,1,12000,0.0,1790000,50,0,Electric,Automatic,3100,3 or more,Istanbul,SUV
+Ford,13,185000,1.6,810000,85,0,Gasoline,Automatic,0,1,Ankara,SUV
+Fiat,10,152000,1.5,360000,44,0,Gasoline,Automatic,97600,3 or more,Konya,B
+Mercedes,4,51000,1.5,1250000,33,0,Gasoline,Manual,85000,2,Konya,C
+Toyota,13,194000,0.0,470000,63,0,Electric,Automatic,156000,2,Istanbul,SUV
+Volkswagen,3,39000,1.4,1080000,26,1,Gasoline,Automatic,0,1,Istanbul,C
+BMW,14,196000,1.4,790000,71,0,Gasoline,Automatic,71900,3 or more,Istanbul,SUV
+Hyundai,7,104000,0.0,610000,15,1,Electric,Automatic,23900,2,Istanbul,C
+Volkswagen,9,132000,1.3,910000,24,1,Gasoline,Automatic,0,2,Bursa,SUV
+BMW,3,43000,1.6,1370000,17,1,Hybrid,Automatic,0,1,Istanbul,C
+Honda,12,181000,1.0,360000,3,1,Diesel,Automatic,119000,3 or more,Istanbul,C
+Mercedes,1,23000,1.4,2300000,42,0,Diesel,Automatic,2800,2,Istanbul,D
+Toyota,15,219000,1.5,670000,1,1,Gasoline,Automatic,0,2,Istanbul,SUV
+Mercedes,14,198000,2.0,880000,73,0,Gasoline,Manual,0,2,Istanbul,SUV
+Renault,9,125000,1.3,390000,25,1,Gasoline,Automatic,9000,3 or more,Istanbul,B
